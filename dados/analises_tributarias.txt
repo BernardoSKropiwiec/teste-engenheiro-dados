@@ -1,0 +1,101 @@
+id_analise|cliente_id|tipo_tributo|periodo_analise|valor_identificado|observacoes
+ANLS00001|CLI0005|PIS|2024-S2|452665.37|Possível recuperação através de compensação
+ANLS00002|CLI0040|COFINS|2023-S1|138370.88|Necessário ajuste nas próximas declarações
+ANLS00003|CLI0034|IPI|2024-S2|106391.01|Crédito confirmado após auditoria
+ANLS00004|CLI0036|COFINS|2024-Q4|215060.2|Oportunidade de redução de carga tributária
+ANLS00005|CLI0038|ICMS|2024-09|471870.95|Benefício fiscal não aplicado corretamente
+ANLS00006|CLI0048|ISS|2023-Q1|307974.59|Necessário ajuste nas próximas declarações
+ANLS00007|CLI0004|ISS|2024-S2|63849.45|Oportunidade de redução de carga tributária
+ANLS00008|CLI0015|IPI|2024-S1|236870.86|Possível recuperação através de compensação
+ANLS00009|CLI0013|IRPJ|2024-02|218884.6|Crédito confirmado após auditoria
+ANLS00010|CLI0005|ICMS|2023-05|216787.62|Oportunidade de redução de carga tributária
+ANLS00011|CLI0045|ICMS|2023-Q1|278635.55|Divergência entre declarado e devido
+ANLS00012|CLI0028|ICMS|2023-04|193714.53|Requer análise mais detalhada da documentação
+ANLS00013|CLI0031|PIS|2023-10|469399.73|Possível recuperação através de compensação
+ANLS00014|CLI0021|PIS|2023-Q2|444282.76|Identificado crédito não aproveitado
+ANLS00015|CLI0013|PIS|2023-Q3|174317.89|Divergência entre declarado e devido
+ANLS00016|CLI0001|IPI|2024-S1|213923.61|Identificado crédito não aproveitado
+ANLS00017|CLI0039|PIS|2023-S1|459661.41|Possível recuperação através de compensação
+ANLS00018|CLI0038|PIS|2023-07|80075.83|Oportunidade de redução de carga tributária
+ANLS00019|CLI0008|ISS|2024-S2|212463.47|Necessário ajuste nas próximas declarações
+ANLS00020|CLI0039|COFINS|2023-06|369602.05|Possível recuperação através de compensação
+ANLS00021|CLI0039|IPI|2024-Q3|92261.88|Necessário ajuste nas próximas declarações
+ANLS00022|CLI0022|PIS|2024-08|456902.74|Necessário ajuste nas próximas declarações
+ANLS00023|CLI0027|COFINS|2024-Q2|11640.57|Crédito confirmado após auditoria
+ANLS00024|CLI0002|COFINS|2024-Q1|174298.71|Oportunidade de redução de carga tributária
+ANLS00025|CLI0041|ISS|2024-06|207925.5|Benefício fiscal não aplicado corretamente
+ANLS00026|CLI0047|IRPJ|2024-03|311841.13|Identificado crédito não aproveitado
+ANLS00027|CLI0038|PIS|2023-Q4|228833.31|Benefício fiscal não aplicado corretamente
+ANLS00028|CLI0016|IPI|2023-02|251936.3|Possível recuperação através de compensação
+ANLS00029|CLI0004|IPI|2024-09|301675.58|Benefício fiscal não aplicado corretamente
+ANLS00030|CLI0009|IPI|2023-S2|451068.29|Oportunidade de redução de carga tributária
+ANLS00031|CLI0042|IPI|2023-Q4|424891.18|Identificado crédito não aproveitado
+ANLS00032|CLI0042|CSLL|2024-S2|295120.72|Divergência entre declarado e devido
+ANLS00033|CLI0049|ISS|2024-S2|421526.18|Benefício fiscal não aplicado corretamente
+ANLS00034|CLI0002|ICMS|2024-08|235544.72|Requer análise mais detalhada da documentação
+ANLS00035|CLI0019|ISS|2023-08|49893.3|Necessário ajuste nas próximas declarações
+ANLS00036|CLI0048|IRPJ|2023-S1|31398.96|Oportunidade de redução de carga tributária
+ANLS00037|CLI0010|ISS|2023-10|71929.46|Oportunidade de redução de carga tributária
+ANLS00038|CLI0040|IRPJ|2023-S2|301163.68|Divergência entre declarado e devido
+ANLS00039|CLI0041|IRPJ|2024-10|294414.34|Identificado crédito não aproveitado
+ANLS00040|CLI0011|PIS|2024-S2|354173.82|Requer análise mais detalhada da documentação
+ANLS00041|CLI0036|IRPJ|2024-08|22871.88|Possível recuperação através de compensação
+ANLS00042|CLI0043|PIS|2024-10|425969.71|Crédito confirmado após auditoria
+ANLS00043|CLI0021|IRPJ|2023-10|257665.51|Benefício fiscal não aplicado corretamente
+ANLS00044|CLI0003|IPI|2023-11|112879.63|Requer análise mais detalhada da documentação
+ANLS00045|CLI0020|COFINS|2023-12|63215.94|Divergência entre declarado e devido
+ANLS00046|CLI0049|IRPJ|2023-11|171628.15|Necessário ajuste nas próximas declarações
+ANLS00047|CLI0018|CSLL|2023-S1|365371.81|Divergência entre declarado e devido
+ANLS00048|CLI0018|IPI|2023-Q4|342645.63|Necessário ajuste nas próximas declarações
+ANLS00049|CLI0007|ICMS|2023-S1|131315.71|Necessário ajuste nas próximas declarações
+ANLS00050|CLI0007|PIS|2023-Q4|63308.85|Requer análise mais detalhada da documentação
+ANLS00051|CLI0002|ICMS|2023-09|440926.59|Divergência entre declarado e devido
+ANLS00052|CLI0022|COFINS|2024-S1|210254.57|Possível recuperação através de compensação
+ANLS00053|CLI0005|ICMS|2023-07|324157.09|Requer análise mais detalhada da documentação
+ANLS00054|CLI0002|PIS|2024-02|285734.48|Oportunidade de redução de carga tributária
+ANLS00055|CLI0004|ISS|2023-02|347815.77|Requer análise mais detalhada da documentação
+ANLS00056|CLI0021|COFINS|2023-09|295535.42|Oportunidade de redução de carga tributária
+ANLS00057|CLI0016|CSLL|2024-Q2|64129.95|Possível recuperação através de compensação
+ANLS00058|CLI0025|PIS|2024-S1|438462.85|Divergência entre declarado e devido
+ANLS00059|CLI0002|IPI|2024-10|25592.1|Divergência entre declarado e devido
+ANLS00060|CLI0025|ICMS|2023-S1|84936.74|Identificado crédito não aproveitado
+ANLS00061|CLI0041|CSLL|2024-Q3|252842.3|Divergência entre declarado e devido
+ANLS00062|CLI0024|ISS|2023-Q4|123690.75|Identificado crédito não aproveitado
+ANLS00063|CLI0028|CSLL|2024-Q1|263637.28|Divergência entre declarado e devido
+ANLS00064|CLI0031|PIS|2024-S2|155564.32|Requer análise mais detalhada da documentação
+ANLS00065|CLI0011|IRPJ|2024-Q1|142060.79|Requer análise mais detalhada da documentação
+ANLS00066|CLI0007|CSLL|2023-12|455185.78|Divergência entre declarado e devido
+ANLS00067|CLI0027|IPI|2024-S1|309662.02|Necessário ajuste nas próximas declarações
+ANLS00068|CLI0008|COFINS|2024-03|92225.88|Necessário ajuste nas próximas declarações
+ANLS00069|CLI0034|IPI|2023-09|398595.15|Necessário ajuste nas próximas declarações
+ANLS00070|CLI0044|PIS|2024-03|201981.49|Identificado crédito não aproveitado
+ANLS00071|CLI0009|ISS|2023-S1|224685.47|Possível recuperação através de compensação
+ANLS00072|CLI0019|PIS|2023-02|340253.4|Possível recuperação através de compensação
+ANLS00073|CLI0006|IRPJ|2023-11|462750.08|Crédito confirmado após auditoria
+ANLS00074|CLI0034|PIS|2023-S1|114376.21|Possível recuperação através de compensação
+ANLS00075|CLI0014|IRPJ|2024-Q2|287501.92|Identificado crédito não aproveitado
+ANLS00076|CLI0037|PIS|2023-S2|416958.41|Benefício fiscal não aplicado corretamente
+ANLS00077|CLI0017|IRPJ|2023-Q4|257468.74|Necessário ajuste nas próximas declarações
+ANLS00078|CLI0042|ICMS|2024-05|355390.63|Crédito confirmado após auditoria
+ANLS00079|CLI0045|CSLL|2024-10|37471.72|Possível recuperação através de compensação
+ANLS00080|CLI0040|COFINS|2024-Q1|79282.63|Requer análise mais detalhada da documentação
+ANLS00081|CLI0006|ISS|2023-02|135350.28|Divergência entre declarado e devido
+ANLS00082|CLI0027|IPI|2024-S1|224214.25|Necessário ajuste nas próximas declarações
+ANLS00083|CLI0012|ISS|2023-04|34395.06|Necessário ajuste nas próximas declarações
+ANLS00084|CLI0003|IRPJ|2023-11|238310.97|Crédito confirmado após auditoria
+ANLS00085|CLI0003|IPI|2024-Q4|30761.42|Benefício fiscal não aplicado corretamente
+ANLS00086|CLI0018|IRPJ|2023-S2|145392.48|Requer análise mais detalhada da documentação
+ANLS00087|CLI0004|ISS|2024-S2|267694.33|Oportunidade de redução de carga tributária
+ANLS00088|CLI0040|ICMS|2023-10|190736.9|Oportunidade de redução de carga tributária
+ANLS00089|CLI0036|PIS|2024-S2|307615.71|Requer análise mais detalhada da documentação
+ANLS00090|CLI0009|ICMS|2023-S1|324241.79|Requer análise mais detalhada da documentação
+ANLS00091|CLI0031|PIS|2023-S2|417843.67|Oportunidade de redução de carga tributária
+ANLS00092|CLI0004|CSLL|2024-02|167972.14|Identificado crédito não aproveitado
+ANLS00093|CLI0036|COFINS|2024-S1|304575.56|Requer análise mais detalhada da documentação
+ANLS00094|CLI0045|ISS|2024-06|166043.21|Necessário ajuste nas próximas declarações
+ANLS00095|CLI0046|PIS|2023-Q3|28287.25|Crédito confirmado após auditoria
+ANLS00096|CLI0043|ISS|2024-S2|87317.36|Necessário ajuste nas próximas declarações
+ANLS00097|CLI0016|IRPJ|2023-08|436408.66|Oportunidade de redução de carga tributária
+ANLS00098|CLI0014|CSLL|2024-S2|142917.44|Necessário ajuste nas próximas declarações
+ANLS00099|CLI0013|ICMS|2023-S2|12378.92|Possível recuperação através de compensação
+ANLS00100|CLI0035|CSLL|2023-S1|224989.68|Benefício fiscal não aplicado corretamente

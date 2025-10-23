@@ -1,0 +1,51 @@
+id_cliente,razao_social,cnpj,porte_empresa,setor,cidade,estado,data_cadastro
+CLI0001,Distribuidora Alimentos MT Ltda,71.620.270/0001-11,Médio,Construção,Tangará da Serra,MT,2023-06-17
+CLI0002,Indústria Metalúrgica Centro-Oeste,90.616.356/0001-77,Grande,Serviços,Várzea Grande,MT,2023-11-24
+CLI0003,Transportadora Rodoviária Nacional,90.663.735/0001-15,Grande,Serviços,Cuiabá,MT,2024-06-02
+CLI0004,Comércio Atacadista Grãos SA,57.859.248/0001-42,MEI,Indústria,Sinop,MT,2023-08-25
+CLI0005,Indústria Têxtil Algodão,22.260.904/0001-85,Grande,Construção,Tangará da Serra,MT,2023-01-16
+CLI0006,Frigorífico Boi Gordo Ltda,26.591.187/0001-33,ME,Construção,Cuiabá,MT,2023-07-21
+CLI0007,Empresa Construção Civil Premium,14.115.374/0001-24,EPP,Indústria,Várzea Grande,MT,2023-12-30
+CLI0008,Atacado Medicamentos Saúde,55.183.997/0001-56,Médio,Agronegócio,Cuiabá,MT,2023-12-10
+CLI0009,Indústria Móveis Madeira Nobre,17.314.790/0001-26,EPP,Agronegócio,Rondonópolis,MT,2024-03-22
+CLI0010,Rede Supermercados Regional,57.107.247/0001-19,ME,Comércio,Várzea Grande,MT,2023-01-11
+CLI0011,Distribuidora Bebidas MT,36.476.118/0001-92,EPP,Comércio,Tangará da Serra,MT,2023-09-30
+CLI0012,Indústria Plásticos Recicláveis,94.561.637/0001-71,Grande,Comércio,Várzea Grande,MT,2024-04-22
+CLI0013,Transportes Cargas Pesadas,12.496.129/0001-67,Médio,Indústria,Rondonópolis,MT,2024-07-28
+CLI0014,Comércio Eletrônicos Varejo,15.520.842/0001-66,Grande,Construção,Rondonópolis,MT,2023-06-18
+CLI0015,Indústria Alimentos Orgânicos,27.960.281/0001-94,ME,Agronegócio,Cuiabá,MT,2024-04-27
+CLI0016,Atacado Material Construção,21.372.108/0001-50,Médio,Comércio,Várzea Grande,MT,2024-01-07
+CLI0017,Empresa Tecnologia Software,32.445.428/0001-95,MEI,Agronegócio,Sinop,MT,2023-02-02
+CLI0018,Clínica Médica Especializada,43.857.118/0001-15,Grande,Indústria,Várzea Grande,MT,2024-09-28
+CLI0019,Indústria Cosméticos Naturais,79.163.525/0001-90,Médio,Agronegócio,Rondonópolis,MT,2024-02-05
+CLI0020,Distribuidora Produtos Limpeza,20.983.272/0001-94,Grande,Serviços,Rondonópolis,MT,2023-03-07
+CLI0021,Comércio Vestuário Fashion,94.563.843/0001-71,ME,Comércio,Sinop,MT,2024-03-20
+CLI0022,Indústria Calçados Couro,15.914.909/0001-71,ME,Indústria,Tangará da Serra,MT,2023-05-20
+CLI0023,Transportadora Logística Integrada,46.400.974/0001-49,ME,Construção,Várzea Grande,MT,2024-10-17
+CLI0024,Atacado Produtos Agrícolas,48.106.874/0001-77,EPP,Indústria,Várzea Grande,MT,2023-02-15
+CLI0025,Indústria Embalagens Papel,56.145.459/0001-47,Grande,Agronegócio,Várzea Grande,MT,2023-05-08
+CLI0026,Rede Farmácias Popular,21.995.706/0001-62,EPP,Construção,Rondonópolis,MT,2024-04-24
+CLI0027,Empresa Consultoria Empresarial,85.560.262/0001-64,EPP,Serviços,Sinop,MT,2023-04-25
+CLI0028,Indústria Ração Animal,10.306.146/0001-30,ME,Agronegócio,Cuiabá,MT,2023-02-11
+CLI0029,Distribuidora Autopeças MT,54.659.450/0001-81,EPP,Indústria,Cuiabá,MT,2023-05-22
+CLI0030,Comércio Materiais Elétricos,62.652.938/0001-45,Médio,Agronegócio,Rondonópolis,MT,2023-07-04
+CLI0031,Distribuidora Alimentos MT Ltda,46.613.923/0001-94,EPP,Serviços,Cuiabá,MT,2023-07-20
+CLI0032,Indústria Metalúrgica Centro-Oeste,91.436.730/0001-24,ME,Indústria,Várzea Grande,MT,2024-08-07
+CLI0033,Transportadora Rodoviária Nacional,66.733.103/0001-33,Médio,Agronegócio,Tangará da Serra,MT,2023-02-15
+CLI0034,Comércio Atacadista Grãos SA,54.416.829/0001-80,Grande,Construção,Várzea Grande,MT,2024-11-12
+CLI0035,Indústria Têxtil Algodão,70.447.434/0001-45,ME,Agronegócio,Rondonópolis,MT,2024-02-08
+CLI0036,Frigorífico Boi Gordo Ltda,33.764.883/0001-98,Médio,Comércio,Várzea Grande,MT,2023-09-02
+CLI0037,Empresa Construção Civil Premium,88.430.888/0001-88,EPP,Comércio,Rondonópolis,MT,2023-01-16
+CLI0038,Atacado Medicamentos Saúde,40.233.229/0001-42,ME,Indústria,Rondonópolis,MT,2023-12-09
+CLI0039,Indústria Móveis Madeira Nobre,22.917.953/0001-28,Grande,Construção,Rondonópolis,MT,2023-07-11
+CLI0040,Rede Supermercados Regional,11.752.547/0001-82,MEI,Indústria,Rondonópolis,MT,2023-12-02
+CLI0041,Distribuidora Bebidas MT,12.211.359/0001-67,MEI,Comércio,Várzea Grande,MT,2023-02-14
+CLI0042,Indústria Plásticos Recicláveis,46.651.923/0001-77,EPP,Indústria,Sinop,MT,2023-11-12
+CLI0043,Transportes Cargas Pesadas,18.534.925/0001-21,EPP,Comércio,Cuiabá,MT,2023-10-17
+CLI0044,Comércio Eletrônicos Varejo,29.718.911/0001-12,Grande,Comércio,Tangará da Serra,MT,2024-01-26
+CLI0045,Indústria Alimentos Orgânicos,90.716.569/0001-28,Médio,Comércio,Várzea Grande,MT,2023-03-11
+CLI0046,Atacado Material Construção,29.629.289/0001-84,EPP,Serviços,Várzea Grande,MT,2024-05-07
+CLI0047,Empresa Tecnologia Software,57.346.118/0001-91,ME,Agronegócio,Várzea Grande,MT,2023-03-04
+CLI0048,Clínica Médica Especializada,76.843.560/0001-94,MEI,Indústria,Cuiabá,MT,2024-04-01
+CLI0049,Indústria Cosméticos Naturais,55.915.684/0001-18,MEI,Construção,Cuiabá,MT,2024-08-27
+CLI0050,Distribuidora Produtos Limpeza,24.882.468/0001-81,MEI,Indústria,Cuiabá,MT,2024-02-27

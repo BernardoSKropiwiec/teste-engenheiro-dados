@@ -1,0 +1,4054 @@
+{
+  "projetos": [
+    {
+      "id_projeto": "PROJ0001",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0031",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-08-21",
+      "data_prevista_fim": "2024-10-24",
+      "status": "Pausado",
+      "valor_projeto": 83231.45,
+      "horas_totais_estimadas": 125,
+      "horas_totais_realizadas": 125,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00001",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-09-02",
+          "data_prevista_fim": "2024-09-05",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 25,
+          "horas_realizadas": 8
+        },
+        {
+          "id_tarefa": "TSK00002",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-09-07",
+          "data_prevista_fim": "2024-09-19",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 4,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00003",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-08-24",
+          "data_prevista_fim": "2024-08-30",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 12,
+          "horas_realizadas": 34
+        },
+        {
+          "id_tarefa": "TSK00004",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-09-01",
+          "data_prevista_fim": "2024-09-07",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 11,
+          "horas_realizadas": 4
+        },
+        {
+          "id_tarefa": "TSK00005",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-08-28",
+          "data_prevista_fim": "2024-09-07",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 35,
+          "horas_realizadas": 27
+        },
+        {
+          "id_tarefa": "TSK00006",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-09-22",
+          "data_prevista_fim": "2024-09-27",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 38,
+          "horas_realizadas": 8
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0002",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0018",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-07-29",
+      "data_prevista_fim": "2024-10-25",
+      "status": "Pausado",
+      "valor_projeto": 77407.93,
+      "horas_totais_estimadas": 84,
+      "horas_totais_realizadas": 133,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00011",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-08-30",
+          "data_prevista_fim": "2024-09-02",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 33,
+          "horas_realizadas": 26
+        },
+        {
+          "id_tarefa": "TSK00012",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-08-07",
+          "data_prevista_fim": "2024-08-10",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 8,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00013",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-08-29",
+          "data_prevista_fim": "2024-09-07",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 31,
+          "horas_realizadas": 33
+        },
+        {
+          "id_tarefa": "TSK00014",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-08-21",
+          "data_prevista_fim": "2024-08-31",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 12,
+          "horas_realizadas": 30
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0003",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0027",
+      "responsavel": "Roberto Ferreira",
+      "data_inicio": "2024-05-07",
+      "data_prevista_fim": "2024-06-19",
+      "status": "Em Planejamento",
+      "valor_projeto": 79690.92,
+      "horas_totais_estimadas": 116,
+      "horas_totais_realizadas": 220,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00021",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-05-13",
+          "data_prevista_fim": "2024-05-25",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 39,
+          "horas_realizadas": 48
+        },
+        {
+          "id_tarefa": "TSK00022",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-05-23",
+          "data_prevista_fim": "2024-06-03",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 18,
+          "horas_realizadas": 20
+        },
+        {
+          "id_tarefa": "TSK00023",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-05-14",
+          "data_prevista_fim": "2024-05-17",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 12,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00024",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-05-23",
+          "data_prevista_fim": "2024-05-26",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 12,
+          "horas_realizadas": 48
+        },
+        {
+          "id_tarefa": "TSK00025",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-05-19",
+          "data_prevista_fim": "2024-06-03",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 14,
+          "horas_realizadas": 45
+        },
+        {
+          "id_tarefa": "TSK00026",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-05-15",
+          "data_prevista_fim": "2024-05-28",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 21,
+          "horas_realizadas": 9
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0004",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0021",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-06-20",
+      "data_prevista_fim": "2024-09-17",
+      "status": "Cancelado",
+      "valor_projeto": 105524.16,
+      "horas_totais_estimadas": 170,
+      "horas_totais_realizadas": 192,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00031",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-19",
+          "data_prevista_fim": "2024-07-25",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 35,
+          "horas_realizadas": 34
+        },
+        {
+          "id_tarefa": "TSK00032",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-21",
+          "data_prevista_fim": "2024-08-01",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 39,
+          "horas_realizadas": 31
+        },
+        {
+          "id_tarefa": "TSK00033",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-06-28",
+          "data_prevista_fim": "2024-07-07",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 13,
+          "horas_realizadas": 19
+        },
+        {
+          "id_tarefa": "TSK00034",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-07-03",
+          "data_prevista_fim": "2024-07-17",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 39,
+          "horas_realizadas": 30
+        },
+        {
+          "id_tarefa": "TSK00035",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-07-23",
+          "data_prevista_fim": "2024-07-26",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 12,
+          "horas_realizadas": 13
+        },
+        {
+          "id_tarefa": "TSK00036",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-07-28",
+          "data_prevista_fim": "2024-08-07",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 18,
+          "horas_realizadas": 23
+        },
+        {
+          "id_tarefa": "TSK00037",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-25",
+          "data_prevista_fim": "2024-08-01",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 14,
+          "horas_realizadas": 42
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0005",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0009",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-01-22",
+      "data_prevista_fim": "2024-04-03",
+      "status": "Em Andamento",
+      "valor_projeto": 64211.68,
+      "horas_totais_estimadas": 131,
+      "horas_totais_realizadas": 125,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00041",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-02-09",
+          "data_prevista_fim": "2024-02-15",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 11,
+          "horas_realizadas": 22
+        },
+        {
+          "id_tarefa": "TSK00042",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-02-26",
+          "data_prevista_fim": "2024-03-05",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 28,
+          "horas_realizadas": 4
+        },
+        {
+          "id_tarefa": "TSK00043",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-02-22",
+          "data_prevista_fim": "2024-02-29",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 21,
+          "horas_realizadas": 30
+        },
+        {
+          "id_tarefa": "TSK00044",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-02-20",
+          "data_prevista_fim": "2024-03-01",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 5,
+          "horas_realizadas": 14
+        },
+        {
+          "id_tarefa": "TSK00045",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-02-19",
+          "data_prevista_fim": "2024-02-24",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 7,
+          "horas_realizadas": 36
+        },
+        {
+          "id_tarefa": "TSK00046",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-02-25",
+          "data_prevista_fim": "2024-03-05",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 25,
+          "horas_realizadas": 13
+        },
+        {
+          "id_tarefa": "TSK00047",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-01-28",
+          "data_prevista_fim": "2024-02-03",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 34,
+          "horas_realizadas": 6
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0006",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0043",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-01-19",
+      "data_prevista_fim": "2024-02-19",
+      "status": "Em Andamento",
+      "valor_projeto": 40971.38,
+      "horas_totais_estimadas": 141,
+      "horas_totais_realizadas": 235,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00051",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-01-21",
+          "data_prevista_fim": "2024-02-02",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 40,
+          "horas_realizadas": 41
+        },
+        {
+          "id_tarefa": "TSK00052",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-01-29",
+          "data_prevista_fim": "2024-02-04",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 10,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00053",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-01-30",
+          "data_prevista_fim": "2024-02-04",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 36,
+          "horas_realizadas": 32
+        },
+        {
+          "id_tarefa": "TSK00054",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-02-02",
+          "data_prevista_fim": "2024-02-07",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 10,
+          "horas_realizadas": 38
+        },
+        {
+          "id_tarefa": "TSK00055",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-01-23",
+          "data_prevista_fim": "2024-01-29",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 17,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00056",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-01-31",
+          "data_prevista_fim": "2024-02-06",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 13,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00057",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-01-21",
+          "data_prevista_fim": "2024-01-30",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 15,
+          "horas_realizadas": 10
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0007",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0035",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-02-01",
+      "data_prevista_fim": "2024-04-14",
+      "status": "Em Planejamento",
+      "valor_projeto": 102470.9,
+      "horas_totais_estimadas": 110,
+      "horas_totais_realizadas": 110,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00061",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-02-18",
+          "data_prevista_fim": "2024-03-04",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 28,
+          "horas_realizadas": 15
+        },
+        {
+          "id_tarefa": "TSK00062",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-02-10",
+          "data_prevista_fim": "2024-02-15",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 18,
+          "horas_realizadas": 48
+        },
+        {
+          "id_tarefa": "TSK00063",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-02-27",
+          "data_prevista_fim": "2024-03-03",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 6,
+          "horas_realizadas": 13
+        },
+        {
+          "id_tarefa": "TSK00064",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-02-17",
+          "data_prevista_fim": "2024-02-23",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 32,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00065",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-02-23",
+          "data_prevista_fim": "2024-03-04",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 22,
+          "horas_realizadas": 2
+        },
+        {
+          "id_tarefa": "TSK00066",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-02-21",
+          "data_prevista_fim": "2024-03-03",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 4,
+          "horas_realizadas": 14
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0008",
+      "nome_projeto": "Recuperação de Crédito PIS/COFINS",
+      "cliente_id": "CLI0013",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-06-02",
+      "data_prevista_fim": "2024-06-18",
+      "status": "Pausado",
+      "valor_projeto": 54302.01,
+      "horas_totais_estimadas": 124,
+      "horas_totais_realizadas": 90,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00071",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-06-06",
+          "data_prevista_fim": "2024-06-11",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 28,
+          "horas_realizadas": 48
+        },
+        {
+          "id_tarefa": "TSK00072",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-06-08",
+          "data_prevista_fim": "2024-06-22",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 40,
+          "horas_realizadas": 27
+        },
+        {
+          "id_tarefa": "TSK00073",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-06-03",
+          "data_prevista_fim": "2024-06-14",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 29,
+          "horas_realizadas": 3
+        },
+        {
+          "id_tarefa": "TSK00074",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-06-09",
+          "data_prevista_fim": "2024-06-18",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 27,
+          "horas_realizadas": 12
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0009",
+      "nome_projeto": "Planejamento Tributário Anual",
+      "cliente_id": "CLI0028",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-03-29",
+      "data_prevista_fim": "2024-06-03",
+      "status": "Concluído",
+      "valor_projeto": 68981.15,
+      "horas_totais_estimadas": 141,
+      "horas_totais_realizadas": 78,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00081",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-04-13",
+          "data_prevista_fim": "2024-04-24",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 21,
+          "horas_realizadas": 11
+        },
+        {
+          "id_tarefa": "TSK00082",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-04-19",
+          "data_prevista_fim": "2024-04-29",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 34,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00083",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-04-04",
+          "data_prevista_fim": "2024-04-11",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 31,
+          "horas_realizadas": 12
+        },
+        {
+          "id_tarefa": "TSK00084",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-29",
+          "data_prevista_fim": "2024-05-04",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 23,
+          "horas_realizadas": 19
+        },
+        {
+          "id_tarefa": "TSK00085",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-03-29",
+          "data_prevista_fim": "2024-04-05",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 32,
+          "horas_realizadas": 1
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0010",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0027",
+      "responsavel": "Ana Paula Silva",
+      "data_inicio": "2024-05-31",
+      "data_prevista_fim": "2024-08-09",
+      "status": "Em Planejamento",
+      "valor_projeto": 16738.77,
+      "horas_totais_estimadas": 149,
+      "horas_totais_realizadas": 214,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00091",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-25",
+          "data_prevista_fim": "2024-07-05",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 17,
+          "horas_realizadas": 40
+        },
+        {
+          "id_tarefa": "TSK00092",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-16",
+          "data_prevista_fim": "2024-06-20",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 16,
+          "horas_realizadas": 10
+        },
+        {
+          "id_tarefa": "TSK00093",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-06-11",
+          "data_prevista_fim": "2024-06-20",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 16,
+          "horas_realizadas": 11
+        },
+        {
+          "id_tarefa": "TSK00094",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-06-30",
+          "data_prevista_fim": "2024-07-06",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 30,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00095",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-06-16",
+          "data_prevista_fim": "2024-06-29",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 18,
+          "horas_realizadas": 49
+        },
+        {
+          "id_tarefa": "TSK00096",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-06-21",
+          "data_prevista_fim": "2024-06-27",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 33,
+          "horas_realizadas": 4
+        },
+        {
+          "id_tarefa": "TSK00097",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-06-16",
+          "data_prevista_fim": "2024-06-29",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 19,
+          "horas_realizadas": 50
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0011",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0033",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-03-11",
+      "data_prevista_fim": "2024-05-30",
+      "status": "Cancelado",
+      "valor_projeto": 46239.63,
+      "horas_totais_estimadas": 151,
+      "horas_totais_realizadas": 194,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00101",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-03-27",
+          "data_prevista_fim": "2024-04-04",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 4,
+          "horas_realizadas": 31
+        },
+        {
+          "id_tarefa": "TSK00102",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-04-02",
+          "data_prevista_fim": "2024-04-10",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 39,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00103",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-24",
+          "data_prevista_fim": "2024-03-31",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 32,
+          "horas_realizadas": 43
+        },
+        {
+          "id_tarefa": "TSK00104",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-04-06",
+          "data_prevista_fim": "2024-04-21",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 7,
+          "horas_realizadas": 6
+        },
+        {
+          "id_tarefa": "TSK00105",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-13",
+          "data_prevista_fim": "2024-03-21",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 11,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00106",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-03-26",
+          "data_prevista_fim": "2024-04-01",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 21,
+          "horas_realizadas": 17
+        },
+        {
+          "id_tarefa": "TSK00107",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-03-14",
+          "data_prevista_fim": "2024-03-24",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 37,
+          "horas_realizadas": 18
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0012",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0038",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-09-24",
+      "data_prevista_fim": "2024-12-23",
+      "status": "Concluído",
+      "valor_projeto": 68467.27,
+      "horas_totais_estimadas": 162,
+      "horas_totais_realizadas": 103,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00111",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-11-08",
+          "data_prevista_fim": "2024-11-16",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 20,
+          "horas_realizadas": 26
+        },
+        {
+          "id_tarefa": "TSK00112",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-10-08",
+          "data_prevista_fim": "2024-10-17",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 28,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00113",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-10-12",
+          "data_prevista_fim": "2024-10-18",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 35,
+          "horas_realizadas": 23
+        },
+        {
+          "id_tarefa": "TSK00114",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-11-02",
+          "data_prevista_fim": "2024-11-11",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 33,
+          "horas_realizadas": 23
+        },
+        {
+          "id_tarefa": "TSK00115",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-11-05",
+          "data_prevista_fim": "2024-11-14",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 26,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00116",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-10-23",
+          "data_prevista_fim": "2024-10-29",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 20,
+          "horas_realizadas": 2
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0013",
+      "nome_projeto": "Planejamento Tributário Anual",
+      "cliente_id": "CLI0048",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-08-01",
+      "data_prevista_fim": "2024-09-08",
+      "status": "Cancelado",
+      "valor_projeto": 91074.86,
+      "horas_totais_estimadas": 73,
+      "horas_totais_realizadas": 145,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00121",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-08-12",
+          "data_prevista_fim": "2024-08-23",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 15,
+          "horas_realizadas": 12
+        },
+        {
+          "id_tarefa": "TSK00122",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-08-18",
+          "data_prevista_fim": "2024-08-30",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 20,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00123",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-08-11",
+          "data_prevista_fim": "2024-08-19",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 17,
+          "horas_realizadas": 13
+        },
+        {
+          "id_tarefa": "TSK00124",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-08-01",
+          "data_prevista_fim": "2024-08-12",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 8,
+          "horas_realizadas": 22
+        },
+        {
+          "id_tarefa": "TSK00125",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-08-16",
+          "data_prevista_fim": "2024-08-19",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 13,
+          "horas_realizadas": 48
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0014",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0008",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-10-04",
+      "data_prevista_fim": "2024-11-27",
+      "status": "Em Planejamento",
+      "valor_projeto": 143387.16,
+      "horas_totais_estimadas": 158,
+      "horas_totais_realizadas": 147,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00131",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-10-07",
+          "data_prevista_fim": "2024-10-21",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 29,
+          "horas_realizadas": 39
+        },
+        {
+          "id_tarefa": "TSK00132",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-10-29",
+          "data_prevista_fim": "2024-11-01",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 16,
+          "horas_realizadas": 3
+        },
+        {
+          "id_tarefa": "TSK00133",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-10-10",
+          "data_prevista_fim": "2024-10-22",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 36,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00134",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-10-23",
+          "data_prevista_fim": "2024-10-30",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 16,
+          "horas_realizadas": 37
+        },
+        {
+          "id_tarefa": "TSK00135",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-10-29",
+          "data_prevista_fim": "2024-11-10",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 24,
+          "horas_realizadas": 17
+        },
+        {
+          "id_tarefa": "TSK00136",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-10-05",
+          "data_prevista_fim": "2024-10-19",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 32,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00137",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-10-25",
+          "data_prevista_fim": "2024-11-03",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 5,
+          "horas_realizadas": 33
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0015",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0040",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-01-08",
+      "data_prevista_fim": "2024-03-01",
+      "status": "Cancelado",
+      "valor_projeto": 97129.3,
+      "horas_totais_estimadas": 106,
+      "horas_totais_realizadas": 96,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00141",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-01-20",
+          "data_prevista_fim": "2024-02-03",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 32,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00142",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-01-14",
+          "data_prevista_fim": "2024-01-18",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 35,
+          "horas_realizadas": 10
+        },
+        {
+          "id_tarefa": "TSK00143",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-01-09",
+          "data_prevista_fim": "2024-01-22",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 39,
+          "horas_realizadas": 36
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0016",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0048",
+      "responsavel": "Ana Paula Silva",
+      "data_inicio": "2024-06-30",
+      "data_prevista_fim": "2024-08-18",
+      "status": "Em Planejamento",
+      "valor_projeto": 65049.14,
+      "horas_totais_estimadas": 202,
+      "horas_totais_realizadas": 223,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00151",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-06",
+          "data_prevista_fim": "2024-07-09",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 16,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00152",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-07-02",
+          "data_prevista_fim": "2024-07-10",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 36,
+          "horas_realizadas": 27
+        },
+        {
+          "id_tarefa": "TSK00153",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-13",
+          "data_prevista_fim": "2024-07-17",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 6,
+          "horas_realizadas": 30
+        },
+        {
+          "id_tarefa": "TSK00154",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-07-20",
+          "data_prevista_fim": "2024-07-29",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 20,
+          "horas_realizadas": 13
+        },
+        {
+          "id_tarefa": "TSK00155",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-07-18",
+          "data_prevista_fim": "2024-07-24",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 35,
+          "horas_realizadas": 41
+        },
+        {
+          "id_tarefa": "TSK00156",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-07-21",
+          "data_prevista_fim": "2024-08-05",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 26,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00157",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-07-08",
+          "data_prevista_fim": "2024-07-12",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 30,
+          "horas_realizadas": 27
+        },
+        {
+          "id_tarefa": "TSK00158",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-07",
+          "data_prevista_fim": "2024-07-12",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 33,
+          "horas_realizadas": 36
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0017",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0038",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-07-16",
+      "data_prevista_fim": "2024-08-14",
+      "status": "Pausado",
+      "valor_projeto": 37858.2,
+      "horas_totais_estimadas": 195,
+      "horas_totais_realizadas": 170,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00161",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-07-26",
+          "data_prevista_fim": "2024-08-02",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 18,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00162",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-19",
+          "data_prevista_fim": "2024-07-26",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 27,
+          "horas_realizadas": 26
+        },
+        {
+          "id_tarefa": "TSK00163",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-29",
+          "data_prevista_fim": "2024-08-10",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 28,
+          "horas_realizadas": 32
+        },
+        {
+          "id_tarefa": "TSK00164",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-28",
+          "data_prevista_fim": "2024-08-11",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 34,
+          "horas_realizadas": 10
+        },
+        {
+          "id_tarefa": "TSK00165",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-07-29",
+          "data_prevista_fim": "2024-08-11",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 23,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00166",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-07-26",
+          "data_prevista_fim": "2024-07-30",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 25,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00167",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-07-23",
+          "data_prevista_fim": "2024-08-07",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 40,
+          "horas_realizadas": 45
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0018",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0021",
+      "responsavel": "Ana Paula Silva",
+      "data_inicio": "2024-06-10",
+      "data_prevista_fim": "2024-08-05",
+      "status": "Pausado",
+      "valor_projeto": 19384.21,
+      "horas_totais_estimadas": 108,
+      "horas_totais_realizadas": 166,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00171",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-06-25",
+          "data_prevista_fim": "2024-07-10",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 19,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00172",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-06-14",
+          "data_prevista_fim": "2024-06-25",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 9,
+          "horas_realizadas": 30
+        },
+        {
+          "id_tarefa": "TSK00173",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-21",
+          "data_prevista_fim": "2024-07-06",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 28,
+          "horas_realizadas": 48
+        },
+        {
+          "id_tarefa": "TSK00174",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-06-22",
+          "data_prevista_fim": "2024-06-26",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 12,
+          "horas_realizadas": 34
+        },
+        {
+          "id_tarefa": "TSK00175",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-27",
+          "data_prevista_fim": "2024-07-12",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 40,
+          "horas_realizadas": 25
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0019",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0028",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-05-30",
+      "data_prevista_fim": "2024-06-24",
+      "status": "Cancelado",
+      "valor_projeto": 72255.55,
+      "horas_totais_estimadas": 171,
+      "horas_totais_realizadas": 244,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00181",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-02",
+          "data_prevista_fim": "2024-06-12",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 20,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00182",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-06-07",
+          "data_prevista_fim": "2024-06-20",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 12,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00183",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-06-01",
+          "data_prevista_fim": "2024-06-05",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 18,
+          "horas_realizadas": 33
+        },
+        {
+          "id_tarefa": "TSK00184",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-06-02",
+          "data_prevista_fim": "2024-06-07",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 29,
+          "horas_realizadas": 43
+        },
+        {
+          "id_tarefa": "TSK00185",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-04",
+          "data_prevista_fim": "2024-06-16",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 32,
+          "horas_realizadas": 23
+        },
+        {
+          "id_tarefa": "TSK00186",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-06-06",
+          "data_prevista_fim": "2024-06-17",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 16,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00187",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-06-04",
+          "data_prevista_fim": "2024-06-13",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 5,
+          "horas_realizadas": 43
+        },
+        {
+          "id_tarefa": "TSK00188",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-06-10",
+          "data_prevista_fim": "2024-06-13",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 39,
+          "horas_realizadas": 19
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0020",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0001",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-07-28",
+      "data_prevista_fim": "2024-10-17",
+      "status": "Em Planejamento",
+      "valor_projeto": 143641.55,
+      "horas_totais_estimadas": 146,
+      "horas_totais_realizadas": 174,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00191",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-08-13",
+          "data_prevista_fim": "2024-08-17",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 32,
+          "horas_realizadas": 16
+        },
+        {
+          "id_tarefa": "TSK00192",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-09-03",
+          "data_prevista_fim": "2024-09-13",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 4,
+          "horas_realizadas": 10
+        },
+        {
+          "id_tarefa": "TSK00193",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-08-30",
+          "data_prevista_fim": "2024-09-02",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 21,
+          "horas_realizadas": 17
+        },
+        {
+          "id_tarefa": "TSK00194",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-09-03",
+          "data_prevista_fim": "2024-09-10",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 21,
+          "horas_realizadas": 37
+        },
+        {
+          "id_tarefa": "TSK00195",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-08-09",
+          "data_prevista_fim": "2024-08-23",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 37,
+          "horas_realizadas": 26
+        },
+        {
+          "id_tarefa": "TSK00196",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-08-24",
+          "data_prevista_fim": "2024-09-02",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 14,
+          "horas_realizadas": 42
+        },
+        {
+          "id_tarefa": "TSK00197",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-08-24",
+          "data_prevista_fim": "2024-09-05",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 17,
+          "horas_realizadas": 26
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0021",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0018",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-03-31",
+      "data_prevista_fim": "2024-05-31",
+      "status": "Em Andamento",
+      "valor_projeto": 71557.44,
+      "horas_totais_estimadas": 148,
+      "horas_totais_realizadas": 136,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00201",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-04-22",
+          "data_prevista_fim": "2024-05-03",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 21,
+          "horas_realizadas": 34
+        },
+        {
+          "id_tarefa": "TSK00202",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-20",
+          "data_prevista_fim": "2024-04-27",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 23,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00203",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-04-26",
+          "data_prevista_fim": "2024-05-10",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 4,
+          "horas_realizadas": 19
+        },
+        {
+          "id_tarefa": "TSK00204",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-04-04",
+          "data_prevista_fim": "2024-04-17",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 7,
+          "horas_realizadas": 19
+        },
+        {
+          "id_tarefa": "TSK00205",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-21",
+          "data_prevista_fim": "2024-04-25",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 30,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00206",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-22",
+          "data_prevista_fim": "2024-04-30",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 36,
+          "horas_realizadas": 6
+        },
+        {
+          "id_tarefa": "TSK00207",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-04-16",
+          "data_prevista_fim": "2024-04-22",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 14,
+          "horas_realizadas": 26
+        },
+        {
+          "id_tarefa": "TSK00208",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-21",
+          "data_prevista_fim": "2024-05-06",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 13,
+          "horas_realizadas": 3
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0022",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0038",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-04-18",
+      "data_prevista_fim": "2024-07-06",
+      "status": "Pausado",
+      "valor_projeto": 91528.04,
+      "horas_totais_estimadas": 88,
+      "horas_totais_realizadas": 46,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00211",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-29",
+          "data_prevista_fim": "2024-05-11",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 39,
+          "horas_realizadas": 10
+        },
+        {
+          "id_tarefa": "TSK00212",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-20",
+          "data_prevista_fim": "2024-04-28",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 23,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00213",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-05-12",
+          "data_prevista_fim": "2024-05-15",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 26,
+          "horas_realizadas": 36
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0023",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0006",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-08-06",
+      "data_prevista_fim": "2024-08-29",
+      "status": "Concluído",
+      "valor_projeto": 103570.72,
+      "horas_totais_estimadas": 52,
+      "horas_totais_realizadas": 66,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00221",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-08-07",
+          "data_prevista_fim": "2024-08-10",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 13,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00222",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-08-06",
+          "data_prevista_fim": "2024-08-20",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 27,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00223",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-08-11",
+          "data_prevista_fim": "2024-08-24",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 12,
+          "horas_realizadas": 15
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0024",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0031",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-08-03",
+      "data_prevista_fim": "2024-09-09",
+      "status": "Cancelado",
+      "valor_projeto": 118124.47,
+      "horas_totais_estimadas": 46,
+      "horas_totais_realizadas": 74,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00231",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-08-18",
+          "data_prevista_fim": "2024-08-22",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 9,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00232",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-08-05",
+          "data_prevista_fim": "2024-08-11",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 20,
+          "horas_realizadas": 42
+        },
+        {
+          "id_tarefa": "TSK00233",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-08-20",
+          "data_prevista_fim": "2024-08-25",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 17,
+          "horas_realizadas": 32
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0025",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0006",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-05-18",
+      "data_prevista_fim": "2024-06-20",
+      "status": "Pausado",
+      "valor_projeto": 37102.83,
+      "horas_totais_estimadas": 87,
+      "horas_totais_realizadas": 182,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00241",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-05-20",
+          "data_prevista_fim": "2024-05-29",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 16,
+          "horas_realizadas": 42
+        },
+        {
+          "id_tarefa": "TSK00242",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-05-24",
+          "data_prevista_fim": "2024-05-29",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 33,
+          "horas_realizadas": 40
+        },
+        {
+          "id_tarefa": "TSK00243",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-05-24",
+          "data_prevista_fim": "2024-06-03",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 5,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00244",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-05-24",
+          "data_prevista_fim": "2024-06-01",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 16,
+          "horas_realizadas": 25
+        },
+        {
+          "id_tarefa": "TSK00245",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-06-02",
+          "data_prevista_fim": "2024-06-07",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 17,
+          "horas_realizadas": 31
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0026",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0044",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-06-09",
+      "data_prevista_fim": "2024-08-26",
+      "status": "Em Andamento",
+      "valor_projeto": 95910.64,
+      "horas_totais_estimadas": 131,
+      "horas_totais_realizadas": 137,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00251",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-18",
+          "data_prevista_fim": "2024-07-30",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 33,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00252",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-06-17",
+          "data_prevista_fim": "2024-06-25",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 16,
+          "horas_realizadas": 5
+        },
+        {
+          "id_tarefa": "TSK00253",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-06-12",
+          "data_prevista_fim": "2024-06-26",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 21,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00254",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-06-23",
+          "data_prevista_fim": "2024-07-04",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 28,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00255",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-14",
+          "data_prevista_fim": "2024-07-25",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 33,
+          "horas_realizadas": 41
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0027",
+      "nome_projeto": "Recuperação de Crédito PIS/COFINS",
+      "cliente_id": "CLI0040",
+      "responsavel": "Ana Paula Silva",
+      "data_inicio": "2024-08-17",
+      "data_prevista_fim": "2024-10-04",
+      "status": "Concluído",
+      "valor_projeto": 115232.06,
+      "horas_totais_estimadas": 141,
+      "horas_totais_realizadas": 151,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00261",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-08-18",
+          "data_prevista_fim": "2024-08-30",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 21,
+          "horas_realizadas": 13
+        },
+        {
+          "id_tarefa": "TSK00262",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-08-19",
+          "data_prevista_fim": "2024-08-25",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 37,
+          "horas_realizadas": 8
+        },
+        {
+          "id_tarefa": "TSK00263",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-09-04",
+          "data_prevista_fim": "2024-09-12",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 26,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00264",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-08-28",
+          "data_prevista_fim": "2024-09-04",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 37,
+          "horas_realizadas": 39
+        },
+        {
+          "id_tarefa": "TSK00265",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-08-28",
+          "data_prevista_fim": "2024-09-04",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 5,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00266",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-08-29",
+          "data_prevista_fim": "2024-09-06",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 9,
+          "horas_realizadas": 38
+        },
+        {
+          "id_tarefa": "TSK00267",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-09-06",
+          "data_prevista_fim": "2024-09-21",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 6,
+          "horas_realizadas": 28
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0028",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0048",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-06-07",
+      "data_prevista_fim": "2024-08-29",
+      "status": "Cancelado",
+      "valor_projeto": 101531.6,
+      "horas_totais_estimadas": 162,
+      "horas_totais_realizadas": 100,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00271",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-06-29",
+          "data_prevista_fim": "2024-07-02",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 35,
+          "horas_realizadas": 32
+        },
+        {
+          "id_tarefa": "TSK00272",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-14",
+          "data_prevista_fim": "2024-07-19",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 34,
+          "horas_realizadas": 19
+        },
+        {
+          "id_tarefa": "TSK00273",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-14",
+          "data_prevista_fim": "2024-06-18",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 28,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00274",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-13",
+          "data_prevista_fim": "2024-07-20",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 14,
+          "horas_realizadas": 20
+        },
+        {
+          "id_tarefa": "TSK00275",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-06-16",
+          "data_prevista_fim": "2024-06-24",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 12,
+          "horas_realizadas": 6
+        },
+        {
+          "id_tarefa": "TSK00276",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-20",
+          "data_prevista_fim": "2024-06-28",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 39,
+          "horas_realizadas": 2
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0029",
+      "nome_projeto": "Recuperação de Crédito PIS/COFINS",
+      "cliente_id": "CLI0027",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-05-24",
+      "data_prevista_fim": "2024-06-10",
+      "status": "Cancelado",
+      "valor_projeto": 116127.29,
+      "horas_totais_estimadas": 55,
+      "horas_totais_realizadas": 77,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00281",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-05-25",
+          "data_prevista_fim": "2024-06-07",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 9,
+          "horas_realizadas": 24
+        },
+        {
+          "id_tarefa": "TSK00282",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-06-01",
+          "data_prevista_fim": "2024-06-11",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 24,
+          "horas_realizadas": 27
+        },
+        {
+          "id_tarefa": "TSK00283",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-05-30",
+          "data_prevista_fim": "2024-06-10",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 18,
+          "horas_realizadas": 1
+        },
+        {
+          "id_tarefa": "TSK00284",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-05-30",
+          "data_prevista_fim": "2024-06-05",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 4,
+          "horas_realizadas": 25
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0030",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0037",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-08-06",
+      "data_prevista_fim": "2024-09-10",
+      "status": "Em Planejamento",
+      "valor_projeto": 52413.29,
+      "horas_totais_estimadas": 107,
+      "horas_totais_realizadas": 174,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00291",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-08-17",
+          "data_prevista_fim": "2024-08-25",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 17,
+          "horas_realizadas": 45
+        },
+        {
+          "id_tarefa": "TSK00292",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-08-15",
+          "data_prevista_fim": "2024-08-18",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 37,
+          "horas_realizadas": 26
+        },
+        {
+          "id_tarefa": "TSK00293",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-08-21",
+          "data_prevista_fim": "2024-09-02",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 28,
+          "horas_realizadas": 43
+        },
+        {
+          "id_tarefa": "TSK00294",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-08-07",
+          "data_prevista_fim": "2024-08-11",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 5,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00295",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-08-16",
+          "data_prevista_fim": "2024-08-19",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 20,
+          "horas_realizadas": 25
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0031",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0002",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-03-30",
+      "data_prevista_fim": "2024-04-20",
+      "status": "Em Andamento",
+      "valor_projeto": 134306.28,
+      "horas_totais_estimadas": 142,
+      "horas_totais_realizadas": 166,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00301",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-03-31",
+          "data_prevista_fim": "2024-04-10",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 17,
+          "horas_realizadas": 45
+        },
+        {
+          "id_tarefa": "TSK00302",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-07",
+          "data_prevista_fim": "2024-04-15",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 9,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00303",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-09",
+          "data_prevista_fim": "2024-04-20",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 22,
+          "horas_realizadas": 26
+        },
+        {
+          "id_tarefa": "TSK00304",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-04-04",
+          "data_prevista_fim": "2024-04-13",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 25,
+          "horas_realizadas": 22
+        },
+        {
+          "id_tarefa": "TSK00305",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-04",
+          "data_prevista_fim": "2024-04-09",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 35,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00306",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-04-01",
+          "data_prevista_fim": "2024-04-11",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 7,
+          "horas_realizadas": 2
+        },
+        {
+          "id_tarefa": "TSK00307",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-30",
+          "data_prevista_fim": "2024-04-13",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 27,
+          "horas_realizadas": 0
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0032",
+      "nome_projeto": "Recuperação de Crédito PIS/COFINS",
+      "cliente_id": "CLI0050",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-10-05",
+      "data_prevista_fim": "2025-01-01",
+      "status": "Cancelado",
+      "valor_projeto": 91839.06,
+      "horas_totais_estimadas": 157,
+      "horas_totais_realizadas": 160,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00311",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-10-22",
+          "data_prevista_fim": "2024-10-25",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 30,
+          "horas_realizadas": 36
+        },
+        {
+          "id_tarefa": "TSK00312",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-11-07",
+          "data_prevista_fim": "2024-11-16",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 40,
+          "horas_realizadas": 5
+        },
+        {
+          "id_tarefa": "TSK00313",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-10-13",
+          "data_prevista_fim": "2024-10-20",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 29,
+          "horas_realizadas": 43
+        },
+        {
+          "id_tarefa": "TSK00314",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-11-02",
+          "data_prevista_fim": "2024-11-13",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 31,
+          "horas_realizadas": 25
+        },
+        {
+          "id_tarefa": "TSK00315",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-10-15",
+          "data_prevista_fim": "2024-10-28",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 12,
+          "horas_realizadas": 38
+        },
+        {
+          "id_tarefa": "TSK00316",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-10-25",
+          "data_prevista_fim": "2024-11-09",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 15,
+          "horas_realizadas": 13
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0033",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0029",
+      "responsavel": "Roberto Ferreira",
+      "data_inicio": "2024-04-15",
+      "data_prevista_fim": "2024-06-13",
+      "status": "Em Andamento",
+      "valor_projeto": 18425.6,
+      "horas_totais_estimadas": 58,
+      "horas_totais_realizadas": 97,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00321",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-05-10",
+          "data_prevista_fim": "2024-05-14",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 26,
+          "horas_realizadas": 47
+        },
+        {
+          "id_tarefa": "TSK00322",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-04-15",
+          "data_prevista_fim": "2024-04-23",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 20,
+          "horas_realizadas": 37
+        },
+        {
+          "id_tarefa": "TSK00323",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-05-10",
+          "data_prevista_fim": "2024-05-17",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 12,
+          "horas_realizadas": 13
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0034",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0022",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-02-07",
+      "data_prevista_fim": "2024-04-13",
+      "status": "Cancelado",
+      "valor_projeto": 46241.36,
+      "horas_totais_estimadas": 99,
+      "horas_totais_realizadas": 72,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00331",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-09",
+          "data_prevista_fim": "2024-03-19",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 36,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00332",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-02-15",
+          "data_prevista_fim": "2024-02-25",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 12,
+          "horas_realizadas": 41
+        },
+        {
+          "id_tarefa": "TSK00333",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-03-01",
+          "data_prevista_fim": "2024-03-13",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 36,
+          "horas_realizadas": 2
+        },
+        {
+          "id_tarefa": "TSK00334",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-02-23",
+          "data_prevista_fim": "2024-03-03",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 15,
+          "horas_realizadas": 8
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0035",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0032",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-02-03",
+      "data_prevista_fim": "2024-04-16",
+      "status": "Em Planejamento",
+      "valor_projeto": 123861.3,
+      "horas_totais_estimadas": 140,
+      "horas_totais_realizadas": 134,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00341",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-02-04",
+          "data_prevista_fim": "2024-02-16",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 11,
+          "horas_realizadas": 32
+        },
+        {
+          "id_tarefa": "TSK00342",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-03-06",
+          "data_prevista_fim": "2024-03-13",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 16,
+          "horas_realizadas": 11
+        },
+        {
+          "id_tarefa": "TSK00343",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-02-16",
+          "data_prevista_fim": "2024-02-29",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 9,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00344",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-02-08",
+          "data_prevista_fim": "2024-02-12",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 38,
+          "horas_realizadas": 5
+        },
+        {
+          "id_tarefa": "TSK00345",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-03-01",
+          "data_prevista_fim": "2024-03-06",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 14,
+          "horas_realizadas": 30
+        },
+        {
+          "id_tarefa": "TSK00346",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-03-02",
+          "data_prevista_fim": "2024-03-14",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 6,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00347",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-02-04",
+          "data_prevista_fim": "2024-02-18",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 25,
+          "horas_realizadas": 16
+        },
+        {
+          "id_tarefa": "TSK00348",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-02-24",
+          "data_prevista_fim": "2024-03-10",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 21,
+          "horas_realizadas": 19
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0036",
+      "nome_projeto": "Recuperação de Crédito PIS/COFINS",
+      "cliente_id": "CLI0046",
+      "responsavel": "Roberto Ferreira",
+      "data_inicio": "2024-08-26",
+      "data_prevista_fim": "2024-10-08",
+      "status": "Concluído",
+      "valor_projeto": 33450.47,
+      "horas_totais_estimadas": 126,
+      "horas_totais_realizadas": 131,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00351",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-09-10",
+          "data_prevista_fim": "2024-09-21",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 23,
+          "horas_realizadas": 36
+        },
+        {
+          "id_tarefa": "TSK00352",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-08-31",
+          "data_prevista_fim": "2024-09-08",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 7,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00353",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-09-09",
+          "data_prevista_fim": "2024-09-16",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 13,
+          "horas_realizadas": 24
+        },
+        {
+          "id_tarefa": "TSK00354",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-08-28",
+          "data_prevista_fim": "2024-09-10",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 25,
+          "horas_realizadas": 4
+        },
+        {
+          "id_tarefa": "TSK00355",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-09-11",
+          "data_prevista_fim": "2024-09-17",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 37,
+          "horas_realizadas": 24
+        },
+        {
+          "id_tarefa": "TSK00356",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-09-16",
+          "data_prevista_fim": "2024-09-20",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 21,
+          "horas_realizadas": 22
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0037",
+      "nome_projeto": "Planejamento Tributário Anual",
+      "cliente_id": "CLI0045",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-02-09",
+      "data_prevista_fim": "2024-03-22",
+      "status": "Concluído",
+      "valor_projeto": 78468.55,
+      "horas_totais_estimadas": 87,
+      "horas_totais_realizadas": 85,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00361",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-02-28",
+          "data_prevista_fim": "2024-03-09",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 9,
+          "horas_realizadas": 46
+        },
+        {
+          "id_tarefa": "TSK00362",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-02-11",
+          "data_prevista_fim": "2024-02-23",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 39,
+          "horas_realizadas": 1
+        },
+        {
+          "id_tarefa": "TSK00363",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-01",
+          "data_prevista_fim": "2024-03-16",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 39,
+          "horas_realizadas": 38
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0038",
+      "nome_projeto": "Planejamento Tributário Anual",
+      "cliente_id": "CLI0013",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-03-03",
+      "data_prevista_fim": "2024-05-09",
+      "status": "Concluído",
+      "valor_projeto": 133804.88,
+      "horas_totais_estimadas": 90,
+      "horas_totais_realizadas": 114,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00371",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-04-05",
+          "data_prevista_fim": "2024-04-18",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 34,
+          "horas_realizadas": 38
+        },
+        {
+          "id_tarefa": "TSK00372",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-03-17",
+          "data_prevista_fim": "2024-03-25",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 14,
+          "horas_realizadas": 46
+        },
+        {
+          "id_tarefa": "TSK00373",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-01",
+          "data_prevista_fim": "2024-04-15",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 19,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00374",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-14",
+          "data_prevista_fim": "2024-03-28",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 23,
+          "horas_realizadas": 2
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0039",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0012",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-07-02",
+      "data_prevista_fim": "2024-09-08",
+      "status": "Em Planejamento",
+      "valor_projeto": 95970.47,
+      "horas_totais_estimadas": 123,
+      "horas_totais_realizadas": 213,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00381",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-08-02",
+          "data_prevista_fim": "2024-08-14",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 7,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00382",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-07-09",
+          "data_prevista_fim": "2024-07-14",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 30,
+          "horas_realizadas": 10
+        },
+        {
+          "id_tarefa": "TSK00383",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-07-24",
+          "data_prevista_fim": "2024-08-02",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 15,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00384",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-07-10",
+          "data_prevista_fim": "2024-07-19",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 13,
+          "horas_realizadas": 46
+        },
+        {
+          "id_tarefa": "TSK00385",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-31",
+          "data_prevista_fim": "2024-08-03",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 31,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00386",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-07-07",
+          "data_prevista_fim": "2024-07-13",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 27,
+          "horas_realizadas": 35
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0040",
+      "nome_projeto": "Planejamento Tributário Anual",
+      "cliente_id": "CLI0022",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-07-29",
+      "data_prevista_fim": "2024-08-14",
+      "status": "Concluído",
+      "valor_projeto": 36771.83,
+      "horas_totais_estimadas": 101,
+      "horas_totais_realizadas": 143,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00391",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-08-06",
+          "data_prevista_fim": "2024-08-15",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 23,
+          "horas_realizadas": 20
+        },
+        {
+          "id_tarefa": "TSK00392",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-08-04",
+          "data_prevista_fim": "2024-08-07",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 17,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00393",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-29",
+          "data_prevista_fim": "2024-08-13",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 17,
+          "horas_realizadas": 15
+        },
+        {
+          "id_tarefa": "TSK00394",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-07-30",
+          "data_prevista_fim": "2024-08-11",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 7,
+          "horas_realizadas": 37
+        },
+        {
+          "id_tarefa": "TSK00395",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-08-05",
+          "data_prevista_fim": "2024-08-16",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 37,
+          "horas_realizadas": 43
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0041",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0036",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-03-04",
+      "data_prevista_fim": "2024-05-23",
+      "status": "Concluído",
+      "valor_projeto": 84785.53,
+      "horas_totais_estimadas": 155,
+      "horas_totais_realizadas": 179,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00401",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-03-14",
+          "data_prevista_fim": "2024-03-20",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 9,
+          "horas_realizadas": 1
+        },
+        {
+          "id_tarefa": "TSK00402",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-12",
+          "data_prevista_fim": "2024-04-27",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 23,
+          "horas_realizadas": 3
+        },
+        {
+          "id_tarefa": "TSK00403",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-04-02",
+          "data_prevista_fim": "2024-04-17",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 13,
+          "horas_realizadas": 33
+        },
+        {
+          "id_tarefa": "TSK00404",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-05",
+          "data_prevista_fim": "2024-04-17",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 11,
+          "horas_realizadas": 43
+        },
+        {
+          "id_tarefa": "TSK00405",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-03-19",
+          "data_prevista_fim": "2024-04-02",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 36,
+          "horas_realizadas": 36
+        },
+        {
+          "id_tarefa": "TSK00406",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-04-12",
+          "data_prevista_fim": "2024-04-27",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 35,
+          "horas_realizadas": 36
+        },
+        {
+          "id_tarefa": "TSK00407",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-03-31",
+          "data_prevista_fim": "2024-04-15",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 28,
+          "horas_realizadas": 27
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0042",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0022",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-10-07",
+      "data_prevista_fim": "2024-12-18",
+      "status": "Cancelado",
+      "valor_projeto": 66952.39,
+      "horas_totais_estimadas": 63,
+      "horas_totais_realizadas": 65,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00411",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-10-16",
+          "data_prevista_fim": "2024-10-24",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 29,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00412",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-11-11",
+          "data_prevista_fim": "2024-11-25",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 20,
+          "horas_realizadas": 20
+        },
+        {
+          "id_tarefa": "TSK00413",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-10-25",
+          "data_prevista_fim": "2024-10-31",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 14,
+          "horas_realizadas": 17
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0043",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0028",
+      "responsavel": "Roberto Ferreira",
+      "data_inicio": "2024-07-18",
+      "data_prevista_fim": "2024-08-09",
+      "status": "Em Andamento",
+      "valor_projeto": 29581.3,
+      "horas_totais_estimadas": 116,
+      "horas_totais_realizadas": 100,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00421",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-26",
+          "data_prevista_fim": "2024-08-08",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 32,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00422",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-07-26",
+          "data_prevista_fim": "2024-08-08",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 40,
+          "horas_realizadas": 46
+        },
+        {
+          "id_tarefa": "TSK00423",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-07-21",
+          "data_prevista_fim": "2024-07-30",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 34,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00424",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-29",
+          "data_prevista_fim": "2024-08-06",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 10,
+          "horas_realizadas": 7
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0044",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0028",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-09-29",
+      "data_prevista_fim": "2024-12-10",
+      "status": "Concluído",
+      "valor_projeto": 28262.14,
+      "horas_totais_estimadas": 152,
+      "horas_totais_realizadas": 155,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00431",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-10-10",
+          "data_prevista_fim": "2024-10-17",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 27,
+          "horas_realizadas": 6
+        },
+        {
+          "id_tarefa": "TSK00432",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-10-01",
+          "data_prevista_fim": "2024-10-04",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 26,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00433",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-10-19",
+          "data_prevista_fim": "2024-11-03",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 23,
+          "horas_realizadas": 49
+        },
+        {
+          "id_tarefa": "TSK00434",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-09-30",
+          "data_prevista_fim": "2024-10-15",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 7,
+          "horas_realizadas": 12
+        },
+        {
+          "id_tarefa": "TSK00435",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-10-26",
+          "data_prevista_fim": "2024-10-31",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 39,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00436",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-10-12",
+          "data_prevista_fim": "2024-10-22",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 30,
+          "horas_realizadas": 35
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0045",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0012",
+      "responsavel": "Ana Paula Silva",
+      "data_inicio": "2024-04-15",
+      "data_prevista_fim": "2024-05-13",
+      "status": "Pausado",
+      "valor_projeto": 15093.62,
+      "horas_totais_estimadas": 160,
+      "horas_totais_realizadas": 105,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00441",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-04-26",
+          "data_prevista_fim": "2024-05-08",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 19,
+          "horas_realizadas": 6
+        },
+        {
+          "id_tarefa": "TSK00442",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-04-24",
+          "data_prevista_fim": "2024-05-03",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 26,
+          "horas_realizadas": 38
+        },
+        {
+          "id_tarefa": "TSK00443",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-04-18",
+          "data_prevista_fim": "2024-04-28",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 40,
+          "horas_realizadas": 34
+        },
+        {
+          "id_tarefa": "TSK00444",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-04-23",
+          "data_prevista_fim": "2024-04-30",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 35,
+          "horas_realizadas": 19
+        },
+        {
+          "id_tarefa": "TSK00445",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-04-21",
+          "data_prevista_fim": "2024-05-02",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 40,
+          "horas_realizadas": 8
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0046",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0008",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-04-06",
+      "data_prevista_fim": "2024-05-04",
+      "status": "Pausado",
+      "valor_projeto": 133727.78,
+      "horas_totais_estimadas": 81,
+      "horas_totais_realizadas": 95,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00451",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-04-10",
+          "data_prevista_fim": "2024-04-25",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 40,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00452",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-04-20",
+          "data_prevista_fim": "2024-05-01",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 11,
+          "horas_realizadas": 45
+        },
+        {
+          "id_tarefa": "TSK00453",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-04-19",
+          "data_prevista_fim": "2024-05-03",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 30,
+          "horas_realizadas": 22
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0047",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0015",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-06-21",
+      "data_prevista_fim": "2024-09-01",
+      "status": "Em Planejamento",
+      "valor_projeto": 116420.6,
+      "horas_totais_estimadas": 185,
+      "horas_totais_realizadas": 168,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00461",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-06",
+          "data_prevista_fim": "2024-07-15",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 5,
+          "horas_realizadas": 15
+        },
+        {
+          "id_tarefa": "TSK00462",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-19",
+          "data_prevista_fim": "2024-07-24",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 12,
+          "horas_realizadas": 22
+        },
+        {
+          "id_tarefa": "TSK00463",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-07-20",
+          "data_prevista_fim": "2024-07-29",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 39,
+          "horas_realizadas": 1
+        },
+        {
+          "id_tarefa": "TSK00464",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-06-21",
+          "data_prevista_fim": "2024-06-27",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 28,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00465",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-22",
+          "data_prevista_fim": "2024-06-30",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 16,
+          "horas_realizadas": 41
+        },
+        {
+          "id_tarefa": "TSK00466",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-07-12",
+          "data_prevista_fim": "2024-07-25",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 37,
+          "horas_realizadas": 37
+        },
+        {
+          "id_tarefa": "TSK00467",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-07-16",
+          "data_prevista_fim": "2024-07-27",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 37,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00468",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-14",
+          "data_prevista_fim": "2024-07-23",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 11,
+          "horas_realizadas": 2
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0048",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0033",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-06-22",
+      "data_prevista_fim": "2024-08-02",
+      "status": "Em Andamento",
+      "valor_projeto": 44518.49,
+      "horas_totais_estimadas": 74,
+      "horas_totais_realizadas": 123,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00471",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-07-09",
+          "data_prevista_fim": "2024-07-20",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 26,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00472",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-07-07",
+          "data_prevista_fim": "2024-07-21",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 20,
+          "horas_realizadas": 31
+        },
+        {
+          "id_tarefa": "TSK00473",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-02",
+          "data_prevista_fim": "2024-07-16",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 4,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00474",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-06-28",
+          "data_prevista_fim": "2024-07-08",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 24,
+          "horas_realizadas": 36
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0049",
+      "nome_projeto": "Recuperação de Crédito PIS/COFINS",
+      "cliente_id": "CLI0014",
+      "responsavel": "Ana Paula Silva",
+      "data_inicio": "2024-07-13",
+      "data_prevista_fim": "2024-09-30",
+      "status": "Cancelado",
+      "valor_projeto": 70880.58,
+      "horas_totais_estimadas": 78,
+      "horas_totais_realizadas": 125,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00481",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-15",
+          "data_prevista_fim": "2024-07-25",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 22,
+          "horas_realizadas": 40
+        },
+        {
+          "id_tarefa": "TSK00482",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-07-16",
+          "data_prevista_fim": "2024-07-30",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 20,
+          "horas_realizadas": 39
+        },
+        {
+          "id_tarefa": "TSK00483",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-07-28",
+          "data_prevista_fim": "2024-07-31",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 36,
+          "horas_realizadas": 46
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0050",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0016",
+      "responsavel": "Roberto Ferreira",
+      "data_inicio": "2024-09-30",
+      "data_prevista_fim": "2024-10-28",
+      "status": "Em Planejamento",
+      "valor_projeto": 42928.26,
+      "horas_totais_estimadas": 140,
+      "horas_totais_realizadas": 196,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00491",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-10-05",
+          "data_prevista_fim": "2024-10-16",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 12,
+          "horas_realizadas": 20
+        },
+        {
+          "id_tarefa": "TSK00492",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-10-04",
+          "data_prevista_fim": "2024-10-12",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 18,
+          "horas_realizadas": 44
+        },
+        {
+          "id_tarefa": "TSK00493",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-10-03",
+          "data_prevista_fim": "2024-10-18",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 9,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00494",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-10-08",
+          "data_prevista_fim": "2024-10-15",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 20,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00495",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-09-30",
+          "data_prevista_fim": "2024-10-08",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 38,
+          "horas_realizadas": 6
+        },
+        {
+          "id_tarefa": "TSK00496",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-10-10",
+          "data_prevista_fim": "2024-10-21",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 36,
+          "horas_realizadas": 0
+        },
+        {
+          "id_tarefa": "TSK00497",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-10-08",
+          "data_prevista_fim": "2024-10-16",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 7,
+          "horas_realizadas": 48
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0051",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0013",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-03-13",
+      "data_prevista_fim": "2024-06-08",
+      "status": "Cancelado",
+      "valor_projeto": 54236.81,
+      "horas_totais_estimadas": 162,
+      "horas_totais_realizadas": 181,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00501",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-10",
+          "data_prevista_fim": "2024-04-18",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 24,
+          "horas_realizadas": 29
+        },
+        {
+          "id_tarefa": "TSK00502",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-04-16",
+          "data_prevista_fim": "2024-04-22",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 13,
+          "horas_realizadas": 21
+        },
+        {
+          "id_tarefa": "TSK00503",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-04-25",
+          "data_prevista_fim": "2024-05-10",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 36,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00504",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-04-19",
+          "data_prevista_fim": "2024-04-27",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 40,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00505",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-04-09",
+          "data_prevista_fim": "2024-04-19",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 20,
+          "horas_realizadas": 47
+        },
+        {
+          "id_tarefa": "TSK00506",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-03-19",
+          "data_prevista_fim": "2024-03-23",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 29,
+          "horas_realizadas": 42
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0052",
+      "nome_projeto": "Auditoria Fiscal Preventiva",
+      "cliente_id": "CLI0009",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-04-15",
+      "data_prevista_fim": "2024-05-23",
+      "status": "Pausado",
+      "valor_projeto": 97438.52,
+      "horas_totais_estimadas": 43,
+      "horas_totais_realizadas": 77,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00511",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-04-21",
+          "data_prevista_fim": "2024-05-02",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 33,
+          "horas_realizadas": 16
+        },
+        {
+          "id_tarefa": "TSK00512",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-04-20",
+          "data_prevista_fim": "2024-05-01",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 6,
+          "horas_realizadas": 15
+        },
+        {
+          "id_tarefa": "TSK00513",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-04-29",
+          "data_prevista_fim": "2024-05-08",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 4,
+          "horas_realizadas": 46
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0053",
+      "nome_projeto": "Planejamento Tributário Anual",
+      "cliente_id": "CLI0035",
+      "responsavel": "Pedro Henrique",
+      "data_inicio": "2024-02-18",
+      "data_prevista_fim": "2024-04-26",
+      "status": "Pausado",
+      "valor_projeto": 103408.76,
+      "horas_totais_estimadas": 88,
+      "horas_totais_realizadas": 63,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00521",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-02-18",
+          "data_prevista_fim": "2024-02-22",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 33,
+          "horas_realizadas": 8
+        },
+        {
+          "id_tarefa": "TSK00522",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-02",
+          "data_prevista_fim": "2024-03-13",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 34,
+          "horas_realizadas": 22
+        },
+        {
+          "id_tarefa": "TSK00523",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-03-21",
+          "data_prevista_fim": "2024-03-31",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 21,
+          "horas_realizadas": 33
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0054",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0032",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-05-24",
+      "data_prevista_fim": "2024-06-10",
+      "status": "Em Planejamento",
+      "valor_projeto": 146287.67,
+      "horas_totais_estimadas": 123,
+      "horas_totais_realizadas": 55,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00531",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-05-26",
+          "data_prevista_fim": "2024-06-08",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 9,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00532",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-05-27",
+          "data_prevista_fim": "2024-06-11",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 29,
+          "horas_realizadas": 23
+        },
+        {
+          "id_tarefa": "TSK00533",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-05-31",
+          "data_prevista_fim": "2024-06-13",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 33,
+          "horas_realizadas": 2
+        },
+        {
+          "id_tarefa": "TSK00534",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-05-27",
+          "data_prevista_fim": "2024-06-07",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 29,
+          "horas_realizadas": 5
+        },
+        {
+          "id_tarefa": "TSK00535",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-05-25",
+          "data_prevista_fim": "2024-05-30",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 23,
+          "horas_realizadas": 18
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0055",
+      "nome_projeto": "Recuperação de Crédito PIS/COFINS",
+      "cliente_id": "CLI0035",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-06-01",
+      "data_prevista_fim": "2024-08-30",
+      "status": "Cancelado",
+      "valor_projeto": 106868.93,
+      "horas_totais_estimadas": 79,
+      "horas_totais_realizadas": 110,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00541",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-06-25",
+          "data_prevista_fim": "2024-06-28",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 31,
+          "horas_realizadas": 43
+        },
+        {
+          "id_tarefa": "TSK00542",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-07-08",
+          "data_prevista_fim": "2024-07-15",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 17,
+          "horas_realizadas": 39
+        },
+        {
+          "id_tarefa": "TSK00543",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-06-06",
+          "data_prevista_fim": "2024-06-21",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 25,
+          "horas_realizadas": 10
+        },
+        {
+          "id_tarefa": "TSK00544",
+          "descricao": "Análise preliminar dos dados",
+          "data_inicio": "2024-07-16",
+          "data_prevista_fim": "2024-07-24",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 6,
+          "horas_realizadas": 18
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0056",
+      "nome_projeto": "Planejamento Tributário Anual",
+      "cliente_id": "CLI0008",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-03-22",
+      "data_prevista_fim": "2024-06-10",
+      "status": "Cancelado",
+      "valor_projeto": 48427.4,
+      "horas_totais_estimadas": 113,
+      "horas_totais_realizadas": 45,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00551",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-04-24",
+          "data_prevista_fim": "2024-05-06",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 15,
+          "horas_realizadas": 4
+        },
+        {
+          "id_tarefa": "TSK00552",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-03-23",
+          "data_prevista_fim": "2024-04-07",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 28,
+          "horas_realizadas": 17
+        },
+        {
+          "id_tarefa": "TSK00553",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-23",
+          "data_prevista_fim": "2024-04-30",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 30,
+          "horas_realizadas": 12
+        },
+        {
+          "id_tarefa": "TSK00554",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-04-08",
+          "data_prevista_fim": "2024-04-22",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 40,
+          "horas_realizadas": 12
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0057",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0016",
+      "responsavel": "Mariana Costa",
+      "data_inicio": "2024-02-26",
+      "data_prevista_fim": "2024-04-23",
+      "status": "Pausado",
+      "valor_projeto": 38981.17,
+      "horas_totais_estimadas": 141,
+      "horas_totais_realizadas": 122,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00561",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-03-17",
+          "data_prevista_fim": "2024-03-21",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 38,
+          "horas_realizadas": 18
+        },
+        {
+          "id_tarefa": "TSK00562",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-03-08",
+          "data_prevista_fim": "2024-03-18",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 15,
+          "horas_realizadas": 9
+        },
+        {
+          "id_tarefa": "TSK00563",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-03-06",
+          "data_prevista_fim": "2024-03-18",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 13,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00564",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-03-18",
+          "data_prevista_fim": "2024-03-27",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 12,
+          "horas_realizadas": 9
+        },
+        {
+          "id_tarefa": "TSK00565",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-03-18",
+          "data_prevista_fim": "2024-03-25",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 31,
+          "horas_realizadas": 41
+        },
+        {
+          "id_tarefa": "TSK00566",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-03-03",
+          "data_prevista_fim": "2024-03-13",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 32,
+          "horas_realizadas": 38
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0058",
+      "nome_projeto": "Análise ICMS Diferencial de Alíquota",
+      "cliente_id": "CLI0029",
+      "responsavel": "Juliana Oliveira",
+      "data_inicio": "2024-01-19",
+      "data_prevista_fim": "2024-02-19",
+      "status": "Em Planejamento",
+      "valor_projeto": 71868.53,
+      "horas_totais_estimadas": 177,
+      "horas_totais_realizadas": 149,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00571",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-02-01",
+          "data_prevista_fim": "2024-02-04",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 33,
+          "horas_realizadas": 32
+        },
+        {
+          "id_tarefa": "TSK00572",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-02-01",
+          "data_prevista_fim": "2024-02-13",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 33,
+          "horas_realizadas": 30
+        },
+        {
+          "id_tarefa": "TSK00573",
+          "descricao": "Coleta de documentação fiscal",
+          "data_inicio": "2024-01-26",
+          "data_prevista_fim": "2024-01-29",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 13,
+          "horas_realizadas": 12
+        },
+        {
+          "id_tarefa": "TSK00574",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-02-03",
+          "data_prevista_fim": "2024-02-11",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 40,
+          "horas_realizadas": 15
+        },
+        {
+          "id_tarefa": "TSK00575",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-01-28",
+          "data_prevista_fim": "2024-02-06",
+          "responsavel_tarefa": "Ana Paula Silva",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 31,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00576",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-01-22",
+          "data_prevista_fim": "2024-02-04",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 4,
+          "horas_realizadas": 48
+        },
+        {
+          "id_tarefa": "TSK00577",
+          "descricao": "Cálculo de créditos tributários",
+          "data_inicio": "2024-01-25",
+          "data_prevista_fim": "2024-01-29",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 17,
+          "horas_realizadas": 2
+        },
+        {
+          "id_tarefa": "TSK00578",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-01-20",
+          "data_prevista_fim": "2024-01-24",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 6,
+          "horas_realizadas": 3
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0059",
+      "nome_projeto": "Implementação de Compliance Fiscal",
+      "cliente_id": "CLI0025",
+      "responsavel": "Roberto Ferreira",
+      "data_inicio": "2024-01-04",
+      "data_prevista_fim": "2024-01-23",
+      "status": "Pausado",
+      "valor_projeto": 124750.04,
+      "horas_totais_estimadas": 71,
+      "horas_totais_realizadas": 40,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00581",
+          "descricao": "Finalização e entrega",
+          "data_inicio": "2024-01-09",
+          "data_prevista_fim": "2024-01-14",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 29,
+          "horas_realizadas": 22
+        },
+        {
+          "id_tarefa": "TSK00582",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-01-12",
+          "data_prevista_fim": "2024-01-17",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 21,
+          "horas_realizadas": 5
+        },
+        {
+          "id_tarefa": "TSK00583",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-01-08",
+          "data_prevista_fim": "2024-01-18",
+          "responsavel_tarefa": "Carlos Eduardo Santos",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 21,
+          "horas_realizadas": 13
+        }
+      ]
+    },
+    {
+      "id_projeto": "PROJ0060",
+      "nome_projeto": "Revisão ISS Serviços",
+      "cliente_id": "CLI0011",
+      "responsavel": "Carlos Eduardo Santos",
+      "data_inicio": "2024-05-28",
+      "data_prevista_fim": "2024-07-18",
+      "status": "Pausado",
+      "valor_projeto": 60865.43,
+      "horas_totais_estimadas": 118,
+      "horas_totais_realizadas": 192,
+      "tarefas": [
+        {
+          "id_tarefa": "TSK00591",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-06-13",
+          "data_prevista_fim": "2024-06-20",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Pendente",
+          "horas_estimadas": 12,
+          "horas_realizadas": 50
+        },
+        {
+          "id_tarefa": "TSK00592",
+          "descricao": "Revisão de declarações",
+          "data_inicio": "2024-06-05",
+          "data_prevista_fim": "2024-06-19",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 25,
+          "horas_realizadas": 35
+        },
+        {
+          "id_tarefa": "TSK00593",
+          "descricao": "Validação com cliente",
+          "data_inicio": "2024-05-28",
+          "data_prevista_fim": "2024-06-04",
+          "responsavel_tarefa": "Juliana Oliveira",
+          "status_tarefa": "Em Andamento",
+          "horas_estimadas": 8,
+          "horas_realizadas": 28
+        },
+        {
+          "id_tarefa": "TSK00594",
+          "descricao": "Preparação de defesa administrativa",
+          "data_inicio": "2024-06-05",
+          "data_prevista_fim": "2024-06-09",
+          "responsavel_tarefa": "Mariana Costa",
+          "status_tarefa": "Atrasada",
+          "horas_estimadas": 14,
+          "horas_realizadas": 38
+        },
+        {
+          "id_tarefa": "TSK00595",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-20",
+          "data_prevista_fim": "2024-07-02",
+          "responsavel_tarefa": "Roberto Ferreira",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 39,
+          "horas_realizadas": 7
+        },
+        {
+          "id_tarefa": "TSK00596",
+          "descricao": "Elaboração de relatório técnico",
+          "data_inicio": "2024-06-14",
+          "data_prevista_fim": "2024-06-22",
+          "responsavel_tarefa": "Pedro Henrique",
+          "status_tarefa": "Concluída",
+          "horas_estimadas": 20,
+          "horas_realizadas": 34
+        }
+      ]
+    }
+  ]
+}
