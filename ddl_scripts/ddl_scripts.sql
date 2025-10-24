@@ -50,7 +50,7 @@ CREATE TABLE `psa-data-test-476002.psa_raw.tarefa` (
 );
 
 CREATE TABLE `psa_raw.nota_fiscal` (
-  numero_nota STRING,
+  numero_nota STRING NOT NULL,
   data_emissao DATE,
   cliente_id STRING,
   valor_servico FLOAT64,
@@ -58,17 +58,19 @@ CREATE TABLE `psa_raw.nota_fiscal` (
 );
 
 CREATE TABLE `psa_raw.nota_fiscal_imposto` (
-  numero_nota STRING,
+  numero_nota STRING NOT NULL,
   iss FLOAT64,
   pis FLOAT64,
   cofins FLOAT64
+  FOREIGN KEY (numero_nota) REFERENCES `psa_raw.nota_fiscal` (numero_nota) NOT ENFORCED
 );
 
 CREATE TABLE `sa_raw.nota_fiscal_item` (
-  numero_nota STRING,
+  numero_nota STRING NOT NULL,
   sequencia_item INT64,
   descricao STRING,
   quantidade INT64,
   valor_unitario FLOAT64
+  FOREIGN KEY (numero_nota) REFERENCES `psa_raw.nota_fiscal` (numero_nota) NOT ENFORCED
 );
 
