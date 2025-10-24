@@ -1,5 +1,6 @@
 import os
 import json
+import xml.etree.ElementTree as ET
 from google.cloud import bigquery
 import pandas as pd 
 
@@ -19,6 +20,12 @@ class JSONExtractor:
     def read(self, path: str) -> dict:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
+
+
+class XMLExtractor:
+    def read(self, path: str) -> ET.Element:
+        tree = ET.parse(path)
+        return tree.getroot()
 
 
 class AnaliseTransformer:
@@ -90,6 +97,61 @@ class TarefaTransformer:
         return df
 
 
+class NotaFiscalTransformer:
+    def transform(self, root: ET.Element) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+        notas, impostos, itens = [], [], []
+        for nota_el in root.findall("NotaFiscal"):
+            numero = nota_el.findtext("NumeroNota")
+            notas.append(
+                {
+                    "numero_nota": numero,
+                    "data_emissao": nota_el.findtext("DataEmissao"),
+                    "cliente_id": nota_el.findtext("ClienteID"),
+                    "valor_servico": nota_el.findtext("ValorServico"),
+                    "valor_total": nota_el.findtext("ValorTotal"),
+                }
+            )
+            impostos_el = nota_el.find("Impostos")
+            if impostos_el is not None:
+                impostos.append(
+                    {
+                        "numero_nota": numero,
+                        "iss": impostos_el.findtext("ISS"),
+                        "pis": impostos_el.findtext("PIS"),
+                        "cofins": impostos_el.findtext("COFINS"),
+                    }
+                )
+            for idx, item_el in enumerate(nota_el.findall("./Itens/Item"), start=1):
+                itens.append(
+                    {
+                        "numero_nota": numero,
+                        "sequencia_item": idx,
+                        "descricao": item_el.findtext("Descricao"),
+                        "quantidade": item_el.findtext("Quantidade"),
+                        "valor_unitario": item_el.findtext("ValorUnitario"),
+                    }
+                )
+
+        df_notas = pd.DataFrame(notas)
+        if not df_notas.empty:
+            df_notas["data_emissao"] = pd.to_datetime(df_notas["data_emissao"], errors="coerce").dt.date
+            for col in ["valor_servico", "valor_total"]:
+                df_notas[col] = pd.to_numeric(df_notas[col], errors="coerce")
+
+        df_impostos = pd.DataFrame(impostos)
+        if not df_impostos.empty:
+            for col in ["iss", "pis", "cofins"]:
+                df_impostos[col] = pd.to_numeric(df_impostos[col], errors="coerce")
+
+        df_itens = pd.DataFrame(itens)
+        if not df_itens.empty:
+            df_itens["sequencia_item"] = pd.to_numeric(df_itens["sequencia_item"], errors="coerce").astype("Int64")
+            df_itens["quantidade"] = pd.to_numeric(df_itens["quantidade"], errors="coerce").astype("Int64")
+            df_itens["valor_unitario"] = pd.to_numeric(df_itens["valor_unitario"], errors="coerce")
+
+        return df_notas, df_itens, df_impostos
+
+
 
 def run_pipeline():
     loader = BigQueryLoader()
@@ -97,20 +159,24 @@ def run_pipeline():
     csv_extractor = CSVExtractor()
     txt_extractor = TXTExtractor()
     json_extractor = JSONExtractor()
+    xml_extractor = XMLExtractor()
 
     csv_transformer = ClienteTransformer()
     txt_transformer = AnaliseTransformer()
     projeto_transformer = ProjetoTransformer()
     tarefa_transformer = TarefaTransformer()
+    nota_transformer = NotaFiscalTransformer()
 
     csv_df_raw = csv_extractor.read("dados/dados_clientes.csv")
     txt_df_raw = txt_extractor.read("dados/analises_tributarias.txt")
     json_raw = json_extractor.read("dados/tarefas_projetos.json")
+    xml_root = xml_extractor.read("dados/notas_fiscais.xml")
 
     csv_df_clean = csv_transformer.transform(csv_df_raw)
     txt_df_clean = txt_transformer.transform(txt_df_raw)
     df_projetos = projeto_transformer.transform(json_raw)
     df_tarefas = tarefa_transformer.transform(json_raw)
+    df_notas, df_itens, df_impostos = nota_transformer.transform(xml_root)
 
     loader.load(csv_df_clean, "psa_raw.cliente")
     loader.load(txt_df_clean, "psa_raw.analise")
@@ -118,6 +184,11 @@ def run_pipeline():
         loader.load(df_projetos, "psa_raw.projeto")
     if not df_tarefas.empty:
         loader.load(df_tarefas, "psa_raw.tarefa")
+    if not df_notas.empty:
+        loader.load(df_notas, "psa_raw.nota_fiscal")
+    if not df_itens.empty:
+        loader.load(df_itens, "psa_raw.nota_fiscal_item")
+    if not df_impostos.empty:
+        loader.load(df_impostos, "psa_raw.nota_fiscal_imposto")
 if __name__ == "__main__":
     run_pipeline()
-

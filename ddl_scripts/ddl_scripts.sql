@@ -48,3 +48,27 @@ CREATE TABLE `psa-data-test-476002.psa_raw.tarefa` (
   PRIMARY KEY (id_tarefa) NOT ENFORCED,
   FOREIGN KEY (id_projeto) REFERENCES `psa-data-test-476002.psa_raw.projeto` (id_projeto) NOT ENFORCED
 );
+
+CREATE TABLE `psa_raw.nota_fiscal` (
+  numero_nota STRING,
+  data_emissao DATE,
+  cliente_id STRING,
+  valor_servico FLOAT64,
+  valor_total FLOAT64
+);
+
+CREATE TABLE `psa_raw.nota_fiscal_imposto` (
+  numero_nota STRING,
+  iss FLOAT64,
+  pis FLOAT64,
+  cofins FLOAT64
+);
+
+CREATE TABLE `sa_raw.nota_fiscal_item` (
+  numero_nota STRING,
+  sequencia_item INT64,
+  descricao STRING,
+  quantidade INT64,
+  valor_unitario FLOAT64
+);
+
