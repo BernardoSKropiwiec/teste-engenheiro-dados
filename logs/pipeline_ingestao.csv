@@ -1,0 +1,43 @@
+timestamp,operation,table_id,status,message
+2025-10-25T22:46:28.765878,load_raw_csv,psa_raw.clientes,START,Lendo dados/dados_clientes.csv
+2025-10-25T22:46:34.160979,load_raw_csv,psa_raw.clientes,SUCCESS,psa_raw.clientes carregada com sucesso
+2025-10-25T22:46:34.161095,load_raw_txt,psa_raw.analises_tributaria,START,Lendo dados/analises_tributarias.txt
+2025-10-25T22:46:37.514633,load_raw_txt,psa_raw.analises_tributaria,SUCCESS,psa_raw.analises_tributaria carregada com sucesso
+2025-10-25T22:46:37.514745,load_raw_json,psa_raw.tarefas_projetos,START,Lendo dados/tarefas_projetos.json
+2025-10-25T22:46:41.925462,load_raw_json,psa_raw.tarefas_projetos,SUCCESS,psa_raw.tarefas_projetos carregada com sucesso
+2025-10-25T22:46:41.925564,load_raw_xml,psa_raw.notas_fiscais,START,Lendo dados/notas_fiscais.xml
+2025-10-25T22:46:45.144418,load_raw_xml,psa_raw.notas_fiscais,SUCCESS,psa_raw.notas_fiscais carregada com sucesso
+2025-10-25T22:46:45.144531,load_raw_html,psa_raw.logs_sistema,START,Lendo dados/logs_sistema.html
+2025-10-25T22:46:49.073058,load_raw_html,psa_raw.logs_sistema,SUCCESS,psa_raw.logs_sistema carregada com sucesso
+2025-10-25T22:46:49.073173,load_formated_xml,psa_raw.notas_fiscais_json,START,Lendo dados/notas_fiscais.xml
+2025-10-25T22:46:53.068308,load_formated_xml,psa_raw.notas_fiscais_json,SUCCESS,psa_raw.notas_fiscais_json carregada com sucesso
+2025-10-25T22:46:53.068435,load_formated_html,psa_raw.logs_sistema_table,START,Lendo dados/logs_sistema.html
+2025-10-25T22:46:56.831553,load_formated_html,psa_raw.logs_sistema_table,SUCCESS,psa_raw.logs_sistema_table carregada com sucesso
+2025-10-26T18:57:02.348601,load_raw_csv,psa_raw.clientes,START,Lendo dados/dados_clientes.csv
+2025-10-26T18:57:06.716277,load_raw_csv,psa_raw.clientes,SUCCESS,psa_raw.clientes carregada com sucesso
+2025-10-26T18:57:06.716437,load_raw_txt,psa_raw.analises_tributaria,START,Lendo dados/analises_tributarias.txt
+2025-10-26T18:57:10.436809,load_raw_txt,psa_raw.analises_tributaria,SUCCESS,psa_raw.analises_tributaria carregada com sucesso
+2025-10-26T18:57:10.436931,load_raw_json,psa_raw.tarefas_projetos,START,Lendo dados/tarefas_projetos.json
+2025-10-26T18:57:14.508590,load_raw_json,psa_raw.tarefas_projetos,SUCCESS,psa_raw.tarefas_projetos carregada com sucesso
+2025-10-26T18:57:14.508711,load_raw_xml,psa_raw.notas_fiscais,START,Lendo dados/notas_fiscais.xml
+2025-10-26T18:57:18.222353,load_raw_xml,psa_raw.notas_fiscais,SUCCESS,psa_raw.notas_fiscais carregada com sucesso
+2025-10-26T18:57:18.222487,load_raw_html,psa_raw.logs_sistema,START,Lendo dados/logs_sistema.html
+2025-10-26T18:57:21.908455,load_raw_html,psa_raw.logs_sistema,SUCCESS,psa_raw.logs_sistema carregada com sucesso
+2025-10-26T18:57:21.908623,load_formated_xml,psa_raw.notas_fiscais_json,START,Lendo dados/notas_fiscais.xml
+2025-10-26T18:57:25.594306,load_formated_xml,psa_raw.notas_fiscais_json,SUCCESS,psa_raw.notas_fiscais_json carregada com sucesso
+2025-10-26T18:57:25.594456,load_formated_html,psa_raw.logs_sistema_table,START,Lendo dados/logs_sistema.html
+2025-10-26T18:57:29.520903,load_formated_html,psa_raw.logs_sistema_table,SUCCESS,psa_raw.logs_sistema_table carregada com sucesso
+2025-10-26T19:26:34.995139,load_raw_csv,psa_raw.clientes,START,Lendo dados/dados_clientes.csv
+2025-10-26T19:26:39.047236,load_raw_csv,psa_raw.clientes,SUCCESS,psa_raw.clientes carregada com sucesso
+2025-10-26T19:26:39.047356,load_raw_txt,psa_raw.analises_tributarias,START,Lendo dados/analises_tributarias.txt
+2025-10-26T19:26:42.632242,load_raw_txt,psa_raw.analises_tributarias,SUCCESS,psa_raw.analises_tributarias carregada com sucesso
+2025-10-26T19:26:42.632387,load_raw_json,psa_raw.tarefas_projetos,START,Lendo dados/tarefas_projetos.json
+2025-10-26T19:26:46.044940,load_raw_json,psa_raw.tarefas_projetos,SUCCESS,psa_raw.tarefas_projetos carregada com sucesso
+2025-10-26T19:26:46.045050,load_raw_xml,psa_raw.notas_fiscais,START,Lendo dados/notas_fiscais.xml
+2025-10-26T19:26:50.314378,load_raw_xml,psa_raw.notas_fiscais,SUCCESS,psa_raw.notas_fiscais carregada com sucesso
+2025-10-26T19:26:50.314505,load_raw_html,psa_raw.logs_sistema,START,Lendo dados/logs_sistema.html
+2025-10-26T19:26:55.103410,load_raw_html,psa_raw.logs_sistema,SUCCESS,psa_raw.logs_sistema carregada com sucesso
+2025-10-26T19:26:55.103529,load_formated_xml,psa_raw.notas_fiscais_json,START,Lendo dados/notas_fiscais.xml
+2025-10-26T19:26:58.879468,load_formated_xml,psa_raw.notas_fiscais_json,SUCCESS,psa_raw.notas_fiscais_json carregada com sucesso
+2025-10-26T19:26:58.879601,load_formated_html,psa_raw.logs_sistema_table,START,Lendo dados/logs_sistema.html
+2025-10-26T19:27:02.869428,load_formated_html,psa_raw.logs_sistema_table,SUCCESS,psa_raw.logs_sistema_table carregada com sucesso

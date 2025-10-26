@@ -1,0 +1,2074 @@
+{
+  "NotasFiscais": {
+    "NotaFiscal": [
+      {
+        "NumeroNota": "NF-5839/2024",
+        "DataEmissao": "2024-09-06",
+        "ClienteID": "CLI0033",
+        "ValorServico": "31844.01",
+        "Impostos": {
+          "ISS": "1592.2",
+          "PIS": "206.99",
+          "COFINS": "955.32"
+        },
+        "ValorTotal": "34598.52",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "4",
+              "ValorUnitario": "15922.0"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "3",
+              "ValorUnitario": "15922.0"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6154/2024",
+        "DataEmissao": "2024-10-03",
+        "ClienteID": "CLI0006",
+        "ValorServico": "33244.89",
+        "Impostos": {
+          "ISS": "1662.24",
+          "PIS": "216.09",
+          "COFINS": "997.35"
+        },
+        "ValorTotal": "36120.57",
+        "Itens": {
+          "Item": {
+            "Descricao": "Consultoria ISS Serviços",
+            "Quantidade": "7",
+            "ValorUnitario": "33244.89"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-8423/2024",
+        "DataEmissao": "2024-09-19",
+        "ClienteID": "CLI0026",
+        "ValorServico": "9222.36",
+        "Impostos": {
+          "ISS": "461.12",
+          "PIS": "59.95",
+          "COFINS": "276.67"
+        },
+        "ValorTotal": "10020.1",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "2",
+              "ValorUnitario": "4611.18"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "10",
+              "ValorUnitario": "4611.18"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9331/2024",
+        "DataEmissao": "2024-02-04",
+        "ClienteID": "CLI0039",
+        "ValorServico": "13059.35",
+        "Impostos": {
+          "ISS": "652.97",
+          "PIS": "84.89",
+          "COFINS": "391.78"
+        },
+        "ValorTotal": "14188.99",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "2",
+              "ValorUnitario": "6529.68"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "7",
+              "ValorUnitario": "6529.68"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-2592/2024",
+        "DataEmissao": "2024-07-22",
+        "ClienteID": "CLI0001",
+        "ValorServico": "28997.0",
+        "Impostos": {
+          "ISS": "1449.85",
+          "PIS": "188.48",
+          "COFINS": "869.91"
+        },
+        "ValorTotal": "31505.24",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "1",
+              "ValorUnitario": "14498.5"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "7",
+              "ValorUnitario": "14498.5"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6585/2024",
+        "DataEmissao": "2024-07-06",
+        "ClienteID": "CLI0005",
+        "ValorServico": "45756.54",
+        "Impostos": {
+          "ISS": "2287.83",
+          "PIS": "297.42",
+          "COFINS": "1372.7"
+        },
+        "ValorTotal": "49714.49",
+        "Itens": {
+          "Item": {
+            "Descricao": "Análise Benefícios Fiscais",
+            "Quantidade": "4",
+            "ValorUnitario": "45756.54"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-2387/2024",
+        "DataEmissao": "2024-04-22",
+        "ClienteID": "CLI0025",
+        "ValorServico": "5466.22",
+        "Impostos": {
+          "ISS": "273.31",
+          "PIS": "35.53",
+          "COFINS": "163.99"
+        },
+        "ValorTotal": "5939.05",
+        "Itens": {
+          "Item": {
+            "Descricao": "Auditoria Fiscal Completa",
+            "Quantidade": "8",
+            "ValorUnitario": "5466.22"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-9758/2024",
+        "DataEmissao": "2024-04-02",
+        "ClienteID": "CLI0012",
+        "ValorServico": "8691.48",
+        "Impostos": {
+          "ISS": "434.57",
+          "PIS": "56.49",
+          "COFINS": "260.74"
+        },
+        "ValorTotal": "9443.28",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "1",
+              "ValorUnitario": "4345.74"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "3",
+              "ValorUnitario": "4345.74"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-8534/2024",
+        "DataEmissao": "2024-10-24",
+        "ClienteID": "CLI0049",
+        "ValorServico": "13663.2",
+        "Impostos": {
+          "ISS": "683.16",
+          "PIS": "88.81",
+          "COFINS": "409.9"
+        },
+        "ValorTotal": "14845.07",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "9",
+              "ValorUnitario": "4554.4"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "6",
+              "ValorUnitario": "4554.4"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "8",
+              "ValorUnitario": "4554.4"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-8317/2024",
+        "DataEmissao": "2024-01-28",
+        "ClienteID": "CLI0049",
+        "ValorServico": "16437.47",
+        "Impostos": {
+          "ISS": "821.87",
+          "PIS": "106.84",
+          "COFINS": "493.12"
+        },
+        "ValorTotal": "17859.3",
+        "Itens": {
+          "Item": {
+            "Descricao": "Consultoria ISS Serviços",
+            "Quantidade": "2",
+            "ValorUnitario": "16437.47"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-8535/2024",
+        "DataEmissao": "2024-01-24",
+        "ClienteID": "CLI0011",
+        "ValorServico": "12112.34",
+        "Impostos": {
+          "ISS": "605.62",
+          "PIS": "78.73",
+          "COFINS": "363.37"
+        },
+        "ValorTotal": "13160.06",
+        "Itens": {
+          "Item": {
+            "Descricao": "Planejamento Tributário Anual",
+            "Quantidade": "6",
+            "ValorUnitario": "12112.34"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-9793/2024",
+        "DataEmissao": "2024-01-19",
+        "ClienteID": "CLI0002",
+        "ValorServico": "32473.19",
+        "Impostos": {
+          "ISS": "1623.66",
+          "PIS": "211.08",
+          "COFINS": "974.2"
+        },
+        "ValorTotal": "35282.13",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "4",
+              "ValorUnitario": "16236.59"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "9",
+              "ValorUnitario": "16236.59"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-3480/2024",
+        "DataEmissao": "2024-06-25",
+        "ClienteID": "CLI0013",
+        "ValorServico": "12324.59",
+        "Impostos": {
+          "ISS": "616.23",
+          "PIS": "80.11",
+          "COFINS": "369.74"
+        },
+        "ValorTotal": "13390.67",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "5",
+              "ValorUnitario": "6162.3"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "8",
+              "ValorUnitario": "6162.3"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-4171/2024",
+        "DataEmissao": "2024-06-30",
+        "ClienteID": "CLI0048",
+        "ValorServico": "33057.51",
+        "Impostos": {
+          "ISS": "1652.88",
+          "PIS": "214.87",
+          "COFINS": "991.73"
+        },
+        "ValorTotal": "35916.99",
+        "Itens": {
+          "Item": {
+            "Descricao": "Serviços de Consultoria Tributária",
+            "Quantidade": "10",
+            "ValorUnitario": "33057.51"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-2004/2024",
+        "DataEmissao": "2024-03-02",
+        "ClienteID": "CLI0031",
+        "ValorServico": "19293.82",
+        "Impostos": {
+          "ISS": "964.69",
+          "PIS": "125.41",
+          "COFINS": "578.81"
+        },
+        "ValorTotal": "20962.73",
+        "Itens": {
+          "Item": {
+            "Descricao": "Recuperação de Crédito ICMS",
+            "Quantidade": "1",
+            "ValorUnitario": "19293.82"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-4355/2024",
+        "DataEmissao": "2024-08-22",
+        "ClienteID": "CLI0002",
+        "ValorServico": "39684.63",
+        "Impostos": {
+          "ISS": "1984.23",
+          "PIS": "257.95",
+          "COFINS": "1190.54"
+        },
+        "ValorTotal": "43117.35",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "2",
+              "ValorUnitario": "13228.21"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "2",
+              "ValorUnitario": "13228.21"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "9",
+              "ValorUnitario": "13228.21"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6329/2024",
+        "DataEmissao": "2024-01-16",
+        "ClienteID": "CLI0011",
+        "ValorServico": "12672.6",
+        "Impostos": {
+          "ISS": "633.63",
+          "PIS": "82.37",
+          "COFINS": "380.18"
+        },
+        "ValorTotal": "13768.78",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "6",
+              "ValorUnitario": "4224.2"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "4224.2"
+            },
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "9",
+              "ValorUnitario": "4224.2"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-8430/2024",
+        "DataEmissao": "2024-06-05",
+        "ClienteID": "CLI0019",
+        "ValorServico": "33054.14",
+        "Impostos": {
+          "ISS": "1652.71",
+          "PIS": "214.85",
+          "COFINS": "991.62"
+        },
+        "ValorTotal": "35913.32",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "7",
+              "ValorUnitario": "16527.07"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "6",
+              "ValorUnitario": "16527.07"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-4064/2024",
+        "DataEmissao": "2024-04-10",
+        "ClienteID": "CLI0027",
+        "ValorServico": "11673.79",
+        "Impostos": {
+          "ISS": "583.69",
+          "PIS": "75.88",
+          "COFINS": "350.21"
+        },
+        "ValorTotal": "12683.57",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "8",
+              "ValorUnitario": "5836.9"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "7",
+              "ValorUnitario": "5836.9"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-8025/2024",
+        "DataEmissao": "2024-01-10",
+        "ClienteID": "CLI0021",
+        "ValorServico": "30092.26",
+        "Impostos": {
+          "ISS": "1504.61",
+          "PIS": "195.6",
+          "COFINS": "902.77"
+        },
+        "ValorTotal": "32695.24",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "6",
+              "ValorUnitario": "10030.75"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "7",
+              "ValorUnitario": "10030.75"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "6",
+              "ValorUnitario": "10030.75"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-8243/2024",
+        "DataEmissao": "2024-08-01",
+        "ClienteID": "CLI0036",
+        "ValorServico": "15277.73",
+        "Impostos": {
+          "ISS": "763.89",
+          "PIS": "99.31",
+          "COFINS": "458.33"
+        },
+        "ValorTotal": "16599.26",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "10",
+              "ValorUnitario": "5092.58"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "7",
+              "ValorUnitario": "5092.58"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "8",
+              "ValorUnitario": "5092.58"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-2535/2024",
+        "DataEmissao": "2024-09-09",
+        "ClienteID": "CLI0046",
+        "ValorServico": "47915.46",
+        "Impostos": {
+          "ISS": "2395.77",
+          "PIS": "311.45",
+          "COFINS": "1437.46"
+        },
+        "ValorTotal": "52060.14",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "4",
+              "ValorUnitario": "15971.82"
+            },
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "3",
+              "ValorUnitario": "15971.82"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "9",
+              "ValorUnitario": "15971.82"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-4048/2024",
+        "DataEmissao": "2024-08-12",
+        "ClienteID": "CLI0015",
+        "ValorServico": "26917.1",
+        "Impostos": {
+          "ISS": "1345.86",
+          "PIS": "174.96",
+          "COFINS": "807.51"
+        },
+        "ValorTotal": "29245.43",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "3",
+              "ValorUnitario": "13458.55"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "7",
+              "ValorUnitario": "13458.55"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-5801/2024",
+        "DataEmissao": "2024-01-19",
+        "ClienteID": "CLI0007",
+        "ValorServico": "9167.8",
+        "Impostos": {
+          "ISS": "458.39",
+          "PIS": "59.59",
+          "COFINS": "275.03"
+        },
+        "ValorTotal": "9960.81",
+        "Itens": {
+          "Item": {
+            "Descricao": "Revisão Declarações Fiscais",
+            "Quantidade": "8",
+            "ValorUnitario": "9167.8"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-3824/2024",
+        "DataEmissao": "2024-07-28",
+        "ClienteID": "CLI0049",
+        "ValorServico": "9132.4",
+        "Impostos": {
+          "ISS": "456.62",
+          "PIS": "59.36",
+          "COFINS": "273.97"
+        },
+        "ValorTotal": "9922.35",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "4",
+              "ValorUnitario": "4566.2"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "4",
+              "ValorUnitario": "4566.2"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1491/2024",
+        "DataEmissao": "2024-02-11",
+        "ClienteID": "CLI0015",
+        "ValorServico": "22054.25",
+        "Impostos": {
+          "ISS": "1102.71",
+          "PIS": "143.35",
+          "COFINS": "661.63"
+        },
+        "ValorTotal": "23961.94",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "2",
+              "ValorUnitario": "11027.12"
+            },
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "5",
+              "ValorUnitario": "11027.12"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1964/2024",
+        "DataEmissao": "2024-04-07",
+        "ClienteID": "CLI0047",
+        "ValorServico": "33888.84",
+        "Impostos": {
+          "ISS": "1694.44",
+          "PIS": "220.28",
+          "COFINS": "1016.67"
+        },
+        "ValorTotal": "36820.23",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "6",
+              "ValorUnitario": "16944.42"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "2",
+              "ValorUnitario": "16944.42"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1300/2024",
+        "DataEmissao": "2024-03-13",
+        "ClienteID": "CLI0043",
+        "ValorServico": "35493.7",
+        "Impostos": {
+          "ISS": "1774.68",
+          "PIS": "230.71",
+          "COFINS": "1064.81"
+        },
+        "ValorTotal": "38563.9",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "5",
+              "ValorUnitario": "17746.85"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "7",
+              "ValorUnitario": "17746.85"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-4523/2024",
+        "DataEmissao": "2024-09-19",
+        "ClienteID": "CLI0042",
+        "ValorServico": "20118.88",
+        "Impostos": {
+          "ISS": "1005.94",
+          "PIS": "130.77",
+          "COFINS": "603.57"
+        },
+        "ValorTotal": "21859.16",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "5",
+              "ValorUnitario": "10059.44"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "3",
+              "ValorUnitario": "10059.44"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-3935/2024",
+        "DataEmissao": "2024-09-12",
+        "ClienteID": "CLI0023",
+        "ValorServico": "42419.67",
+        "Impostos": {
+          "ISS": "2120.98",
+          "PIS": "275.73",
+          "COFINS": "1272.59"
+        },
+        "ValorTotal": "46088.97",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "3",
+              "ValorUnitario": "21209.83"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "6",
+              "ValorUnitario": "21209.83"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-4661/2024",
+        "DataEmissao": "2024-06-02",
+        "ClienteID": "CLI0013",
+        "ValorServico": "22888.77",
+        "Impostos": {
+          "ISS": "1144.44",
+          "PIS": "148.78",
+          "COFINS": "686.66"
+        },
+        "ValorTotal": "24868.65",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "8",
+              "ValorUnitario": "7629.59"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "5",
+              "ValorUnitario": "7629.59"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "9",
+              "ValorUnitario": "7629.59"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9186/2024",
+        "DataEmissao": "2024-09-22",
+        "ClienteID": "CLI0021",
+        "ValorServico": "21963.8",
+        "Impostos": {
+          "ISS": "1098.19",
+          "PIS": "142.76",
+          "COFINS": "658.91"
+        },
+        "ValorTotal": "23863.66",
+        "Itens": {
+          "Item": {
+            "Descricao": "Análise Benefícios Fiscais",
+            "Quantidade": "9",
+            "ValorUnitario": "21963.8"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-6780/2024",
+        "DataEmissao": "2024-05-19",
+        "ClienteID": "CLI0050",
+        "ValorServico": "29607.42",
+        "Impostos": {
+          "ISS": "1480.37",
+          "PIS": "192.45",
+          "COFINS": "888.22"
+        },
+        "ValorTotal": "32168.46",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "5",
+              "ValorUnitario": "9869.14"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "2",
+              "ValorUnitario": "9869.14"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "3",
+              "ValorUnitario": "9869.14"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9858/2024",
+        "DataEmissao": "2024-07-05",
+        "ClienteID": "CLI0031",
+        "ValorServico": "13165.01",
+        "Impostos": {
+          "ISS": "658.25",
+          "PIS": "85.57",
+          "COFINS": "394.95"
+        },
+        "ValorTotal": "14303.78",
+        "Itens": {
+          "Item": {
+            "Descricao": "Serviços de Consultoria Tributária",
+            "Quantidade": "6",
+            "ValorUnitario": "13165.01"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-8946/2024",
+        "DataEmissao": "2024-09-18",
+        "ClienteID": "CLI0002",
+        "ValorServico": "20636.45",
+        "Impostos": {
+          "ISS": "1031.82",
+          "PIS": "134.14",
+          "COFINS": "619.09"
+        },
+        "ValorTotal": "22421.5",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "10318.23"
+            },
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "4",
+              "ValorUnitario": "10318.23"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-7327/2024",
+        "DataEmissao": "2024-10-10",
+        "ClienteID": "CLI0011",
+        "ValorServico": "36861.88",
+        "Impostos": {
+          "ISS": "1843.09",
+          "PIS": "239.6",
+          "COFINS": "1105.86"
+        },
+        "ValorTotal": "40050.43",
+        "Itens": {
+          "Item": {
+            "Descricao": "Planejamento Tributário Anual",
+            "Quantidade": "8",
+            "ValorUnitario": "36861.88"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-8275/2024",
+        "DataEmissao": "2024-07-24",
+        "ClienteID": "CLI0012",
+        "ValorServico": "41252.89",
+        "Impostos": {
+          "ISS": "2062.64",
+          "PIS": "268.14",
+          "COFINS": "1237.59"
+        },
+        "ValorTotal": "44821.26",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "5",
+              "ValorUnitario": "13750.96"
+            },
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "6",
+              "ValorUnitario": "13750.96"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "3",
+              "ValorUnitario": "13750.96"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-3039/2024",
+        "DataEmissao": "2024-01-20",
+        "ClienteID": "CLI0049",
+        "ValorServico": "11450.86",
+        "Impostos": {
+          "ISS": "572.54",
+          "PIS": "74.43",
+          "COFINS": "343.53"
+        },
+        "ValorTotal": "12441.36",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "10",
+              "ValorUnitario": "3816.95"
+            },
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "1",
+              "ValorUnitario": "3816.95"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "2",
+              "ValorUnitario": "3816.95"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9094/2024",
+        "DataEmissao": "2024-06-02",
+        "ClienteID": "CLI0016",
+        "ValorServico": "48661.09",
+        "Impostos": {
+          "ISS": "2433.05",
+          "PIS": "316.3",
+          "COFINS": "1459.83"
+        },
+        "ValorTotal": "52870.27",
+        "Itens": {
+          "Item": {
+            "Descricao": "Planejamento Tributário Anual",
+            "Quantidade": "4",
+            "ValorUnitario": "48661.09"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-7774/2024",
+        "DataEmissao": "2024-05-27",
+        "ClienteID": "CLI0019",
+        "ValorServico": "44885.88",
+        "Impostos": {
+          "ISS": "2244.29",
+          "PIS": "291.76",
+          "COFINS": "1346.58"
+        },
+        "ValorTotal": "48768.51",
+        "Itens": {
+          "Item": {
+            "Descricao": "Revisão Declarações Fiscais",
+            "Quantidade": "6",
+            "ValorUnitario": "44885.88"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-6438/2024",
+        "DataEmissao": "2024-09-11",
+        "ClienteID": "CLI0029",
+        "ValorServico": "26437.4",
+        "Impostos": {
+          "ISS": "1321.87",
+          "PIS": "171.84",
+          "COFINS": "793.12"
+        },
+        "ValorTotal": "28724.23",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "10",
+              "ValorUnitario": "13218.7"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "5",
+              "ValorUnitario": "13218.7"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-2329/2024",
+        "DataEmissao": "2024-09-11",
+        "ClienteID": "CLI0030",
+        "ValorServico": "17096.02",
+        "Impostos": {
+          "ISS": "854.8",
+          "PIS": "111.12",
+          "COFINS": "512.88"
+        },
+        "ValorTotal": "18574.82",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "10",
+              "ValorUnitario": "8548.01"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "6",
+              "ValorUnitario": "8548.01"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-3934/2024",
+        "DataEmissao": "2024-06-25",
+        "ClienteID": "CLI0050",
+        "ValorServico": "5453.13",
+        "Impostos": {
+          "ISS": "272.66",
+          "PIS": "35.45",
+          "COFINS": "163.59"
+        },
+        "ValorTotal": "5924.83",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "8",
+              "ValorUnitario": "2726.57"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "10",
+              "ValorUnitario": "2726.57"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6738/2024",
+        "DataEmissao": "2024-03-30",
+        "ClienteID": "CLI0024",
+        "ValorServico": "45569.27",
+        "Impostos": {
+          "ISS": "2278.46",
+          "PIS": "296.2",
+          "COFINS": "1367.08"
+        },
+        "ValorTotal": "49511.01",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "6",
+              "ValorUnitario": "22784.63"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "9",
+              "ValorUnitario": "22784.63"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-8263/2024",
+        "DataEmissao": "2024-06-28",
+        "ClienteID": "CLI0006",
+        "ValorServico": "5152.15",
+        "Impostos": {
+          "ISS": "257.61",
+          "PIS": "33.49",
+          "COFINS": "154.56"
+        },
+        "ValorTotal": "5597.81",
+        "Itens": {
+          "Item": {
+            "Descricao": "Planejamento Tributário Anual",
+            "Quantidade": "8",
+            "ValorUnitario": "5152.15"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-9704/2024",
+        "DataEmissao": "2024-01-18",
+        "ClienteID": "CLI0021",
+        "ValorServico": "26554.38",
+        "Impostos": {
+          "ISS": "1327.72",
+          "PIS": "172.6",
+          "COFINS": "796.63"
+        },
+        "ValorTotal": "28851.33",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "10",
+              "ValorUnitario": "8851.46"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "8851.46"
+            },
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "8",
+              "ValorUnitario": "8851.46"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-5822/2024",
+        "DataEmissao": "2024-03-08",
+        "ClienteID": "CLI0028",
+        "ValorServico": "43989.68",
+        "Impostos": {
+          "ISS": "2199.48",
+          "PIS": "285.93",
+          "COFINS": "1319.69"
+        },
+        "ValorTotal": "47794.78",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "2",
+              "ValorUnitario": "21994.84"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "8",
+              "ValorUnitario": "21994.84"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6989/2024",
+        "DataEmissao": "2024-10-24",
+        "ClienteID": "CLI0004",
+        "ValorServico": "19741.44",
+        "Impostos": {
+          "ISS": "987.07",
+          "PIS": "128.32",
+          "COFINS": "592.24"
+        },
+        "ValorTotal": "21449.07",
+        "Itens": {
+          "Item": {
+            "Descricao": "Consultoria ISS Serviços",
+            "Quantidade": "5",
+            "ValorUnitario": "19741.44"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-2937/2024",
+        "DataEmissao": "2024-02-20",
+        "ClienteID": "CLI0016",
+        "ValorServico": "8844.47",
+        "Impostos": {
+          "ISS": "442.22",
+          "PIS": "57.49",
+          "COFINS": "265.33"
+        },
+        "ValorTotal": "9609.51",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "8",
+              "ValorUnitario": "4422.23"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "1",
+              "ValorUnitario": "4422.23"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1439/2024",
+        "DataEmissao": "2024-01-03",
+        "ClienteID": "CLI0029",
+        "ValorServico": "39310.44",
+        "Impostos": {
+          "ISS": "1965.52",
+          "PIS": "255.52",
+          "COFINS": "1179.31"
+        },
+        "ValorTotal": "42710.79",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "3",
+              "ValorUnitario": "13103.48"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "8",
+              "ValorUnitario": "13103.48"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "6",
+              "ValorUnitario": "13103.48"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-3666/2024",
+        "DataEmissao": "2024-09-29",
+        "ClienteID": "CLI0032",
+        "ValorServico": "19771.68",
+        "Impostos": {
+          "ISS": "988.58",
+          "PIS": "128.52",
+          "COFINS": "593.15"
+        },
+        "ValorTotal": "21481.93",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "1",
+              "ValorUnitario": "6590.56"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "7",
+              "ValorUnitario": "6590.56"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "10",
+              "ValorUnitario": "6590.56"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-7319/2024",
+        "DataEmissao": "2024-04-18",
+        "ClienteID": "CLI0025",
+        "ValorServico": "14926.06",
+        "Impostos": {
+          "ISS": "746.3",
+          "PIS": "97.02",
+          "COFINS": "447.78"
+        },
+        "ValorTotal": "16217.16",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "10",
+              "ValorUnitario": "7463.03"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "8",
+              "ValorUnitario": "7463.03"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1460/2024",
+        "DataEmissao": "2024-07-29",
+        "ClienteID": "CLI0048",
+        "ValorServico": "37454.71",
+        "Impostos": {
+          "ISS": "1872.74",
+          "PIS": "243.46",
+          "COFINS": "1123.64"
+        },
+        "ValorTotal": "40694.55",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "1",
+              "ValorUnitario": "12484.9"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "4",
+              "ValorUnitario": "12484.9"
+            },
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "7",
+              "ValorUnitario": "12484.9"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1436/2024",
+        "DataEmissao": "2024-01-19",
+        "ClienteID": "CLI0027",
+        "ValorServico": "5200.78",
+        "Impostos": {
+          "ISS": "260.04",
+          "PIS": "33.81",
+          "COFINS": "156.02"
+        },
+        "ValorTotal": "5650.65",
+        "Itens": {
+          "Item": {
+            "Descricao": "Planejamento Tributário Anual",
+            "Quantidade": "6",
+            "ValorUnitario": "5200.78"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-8846/2024",
+        "DataEmissao": "2024-10-21",
+        "ClienteID": "CLI0042",
+        "ValorServico": "49294.11",
+        "Impostos": {
+          "ISS": "2464.71",
+          "PIS": "320.41",
+          "COFINS": "1478.82"
+        },
+        "ValorTotal": "53558.05",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "7",
+              "ValorUnitario": "24647.06"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "10",
+              "ValorUnitario": "24647.06"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9422/2024",
+        "DataEmissao": "2024-02-05",
+        "ClienteID": "CLI0041",
+        "ValorServico": "23948.44",
+        "Impostos": {
+          "ISS": "1197.42",
+          "PIS": "155.66",
+          "COFINS": "718.45"
+        },
+        "ValorTotal": "26019.97",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "5",
+              "ValorUnitario": "7982.81"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "1",
+              "ValorUnitario": "7982.81"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "2",
+              "ValorUnitario": "7982.81"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9126/2024",
+        "DataEmissao": "2024-08-14",
+        "ClienteID": "CLI0029",
+        "ValorServico": "21653.03",
+        "Impostos": {
+          "ISS": "1082.65",
+          "PIS": "140.74",
+          "COFINS": "649.59"
+        },
+        "ValorTotal": "23526.01",
+        "Itens": {
+          "Item": {
+            "Descricao": "Análise Benefícios Fiscais",
+            "Quantidade": "4",
+            "ValorUnitario": "21653.03"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-5412/2024",
+        "DataEmissao": "2024-02-04",
+        "ClienteID": "CLI0015",
+        "ValorServico": "46363.68",
+        "Impostos": {
+          "ISS": "2318.18",
+          "PIS": "301.36",
+          "COFINS": "1390.91"
+        },
+        "ValorTotal": "50374.13",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "23181.84"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "4",
+              "ValorUnitario": "23181.84"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-5682/2024",
+        "DataEmissao": "2024-02-08",
+        "ClienteID": "CLI0036",
+        "ValorServico": "21385.94",
+        "Impostos": {
+          "ISS": "1069.3",
+          "PIS": "139.01",
+          "COFINS": "641.58"
+        },
+        "ValorTotal": "23235.83",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "4",
+              "ValorUnitario": "7128.65"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "8",
+              "ValorUnitario": "7128.65"
+            },
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "9",
+              "ValorUnitario": "7128.65"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-4056/2024",
+        "DataEmissao": "2024-04-20",
+        "ClienteID": "CLI0038",
+        "ValorServico": "45887.22",
+        "Impostos": {
+          "ISS": "2294.36",
+          "PIS": "298.27",
+          "COFINS": "1376.62"
+        },
+        "ValorTotal": "49856.47",
+        "Itens": {
+          "Item": {
+            "Descricao": "Recuperação de Crédito ICMS",
+            "Quantidade": "9",
+            "ValorUnitario": "45887.22"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-3399/2024",
+        "DataEmissao": "2024-03-14",
+        "ClienteID": "CLI0038",
+        "ValorServico": "44638.83",
+        "Impostos": {
+          "ISS": "2231.94",
+          "PIS": "290.15",
+          "COFINS": "1339.16"
+        },
+        "ValorTotal": "48500.08",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "14879.61"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "9",
+              "ValorUnitario": "14879.61"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "10",
+              "ValorUnitario": "14879.61"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-3433/2024",
+        "DataEmissao": "2024-09-07",
+        "ClienteID": "CLI0010",
+        "ValorServico": "45544.33",
+        "Impostos": {
+          "ISS": "2277.22",
+          "PIS": "296.04",
+          "COFINS": "1366.33"
+        },
+        "ValorTotal": "49483.92",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "8",
+              "ValorUnitario": "22772.17"
+            },
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "3",
+              "ValorUnitario": "22772.17"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-5946/2024",
+        "DataEmissao": "2024-02-16",
+        "ClienteID": "CLI0030",
+        "ValorServico": "13555.82",
+        "Impostos": {
+          "ISS": "677.79",
+          "PIS": "88.11",
+          "COFINS": "406.67"
+        },
+        "ValorTotal": "14728.39",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "4518.61"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "6",
+              "ValorUnitario": "4518.61"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "6",
+              "ValorUnitario": "4518.61"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1470/2024",
+        "DataEmissao": "2024-06-30",
+        "ClienteID": "CLI0030",
+        "ValorServico": "15442.58",
+        "Impostos": {
+          "ISS": "772.13",
+          "PIS": "100.38",
+          "COFINS": "463.28"
+        },
+        "ValorTotal": "16778.37",
+        "Itens": {
+          "Item": {
+            "Descricao": "Recuperação de Crédito ICMS",
+            "Quantidade": "7",
+            "ValorUnitario": "15442.58"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-1620/2024",
+        "DataEmissao": "2024-02-23",
+        "ClienteID": "CLI0027",
+        "ValorServico": "26447.14",
+        "Impostos": {
+          "ISS": "1322.36",
+          "PIS": "171.91",
+          "COFINS": "793.41"
+        },
+        "ValorTotal": "28734.82",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "9",
+              "ValorUnitario": "13223.57"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "6",
+              "ValorUnitario": "13223.57"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6933/2024",
+        "DataEmissao": "2024-06-15",
+        "ClienteID": "CLI0027",
+        "ValorServico": "35822.97",
+        "Impostos": {
+          "ISS": "1791.15",
+          "PIS": "232.85",
+          "COFINS": "1074.69"
+        },
+        "ValorTotal": "38921.66",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "7",
+              "ValorUnitario": "11940.99"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "9",
+              "ValorUnitario": "11940.99"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "5",
+              "ValorUnitario": "11940.99"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-5636/2024",
+        "DataEmissao": "2024-07-15",
+        "ClienteID": "CLI0024",
+        "ValorServico": "47324.25",
+        "Impostos": {
+          "ISS": "2366.21",
+          "PIS": "307.61",
+          "COFINS": "1419.73"
+        },
+        "ValorTotal": "51417.8",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "5",
+              "ValorUnitario": "15774.75"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "4",
+              "ValorUnitario": "15774.75"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "8",
+              "ValorUnitario": "15774.75"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-1328/2024",
+        "DataEmissao": "2024-08-13",
+        "ClienteID": "CLI0045",
+        "ValorServico": "10679.8",
+        "Impostos": {
+          "ISS": "533.99",
+          "PIS": "69.42",
+          "COFINS": "320.39"
+        },
+        "ValorTotal": "11603.6",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "6",
+              "ValorUnitario": "3559.93"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "7",
+              "ValorUnitario": "3559.93"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "4",
+              "ValorUnitario": "3559.93"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9882/2024",
+        "DataEmissao": "2024-04-24",
+        "ClienteID": "CLI0043",
+        "ValorServico": "14387.16",
+        "Impostos": {
+          "ISS": "719.36",
+          "PIS": "93.52",
+          "COFINS": "431.61"
+        },
+        "ValorTotal": "15631.65",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "4",
+              "ValorUnitario": "7193.58"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "3",
+              "ValorUnitario": "7193.58"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-9268/2024",
+        "DataEmissao": "2024-06-20",
+        "ClienteID": "CLI0014",
+        "ValorServico": "39646.54",
+        "Impostos": {
+          "ISS": "1982.33",
+          "PIS": "257.7",
+          "COFINS": "1189.4"
+        },
+        "ValorTotal": "43075.97",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "8",
+              "ValorUnitario": "19823.27"
+            },
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "1",
+              "ValorUnitario": "19823.27"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-2013/2024",
+        "DataEmissao": "2024-08-07",
+        "ClienteID": "CLI0011",
+        "ValorServico": "31356.44",
+        "Impostos": {
+          "ISS": "1567.82",
+          "PIS": "203.82",
+          "COFINS": "940.69"
+        },
+        "ValorTotal": "34068.77",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "2",
+              "ValorUnitario": "10452.15"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "4",
+              "ValorUnitario": "10452.15"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "6",
+              "ValorUnitario": "10452.15"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-5041/2024",
+        "DataEmissao": "2024-09-01",
+        "ClienteID": "CLI0045",
+        "ValorServico": "42096.78",
+        "Impostos": {
+          "ISS": "2104.84",
+          "PIS": "273.63",
+          "COFINS": "1262.9"
+        },
+        "ValorTotal": "45738.15",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "9",
+              "ValorUnitario": "14032.26"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "8",
+              "ValorUnitario": "14032.26"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "14032.26"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6742/2024",
+        "DataEmissao": "2024-04-21",
+        "ClienteID": "CLI0042",
+        "ValorServico": "27272.86",
+        "Impostos": {
+          "ISS": "1363.64",
+          "PIS": "177.27",
+          "COFINS": "818.19"
+        },
+        "ValorTotal": "29631.96",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "6",
+              "ValorUnitario": "9090.95"
+            },
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "4",
+              "ValorUnitario": "9090.95"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "5",
+              "ValorUnitario": "9090.95"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-5894/2024",
+        "DataEmissao": "2024-01-04",
+        "ClienteID": "CLI0013",
+        "ValorServico": "5324.68",
+        "Impostos": {
+          "ISS": "266.23",
+          "PIS": "34.61",
+          "COFINS": "159.74"
+        },
+        "ValorTotal": "5785.26",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Serviços de Consultoria Tributária",
+              "Quantidade": "1",
+              "ValorUnitario": "2662.34"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "7",
+              "ValorUnitario": "2662.34"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-6540/2024",
+        "DataEmissao": "2024-07-23",
+        "ClienteID": "CLI0020",
+        "ValorServico": "47420.75",
+        "Impostos": {
+          "ISS": "2371.04",
+          "PIS": "308.23",
+          "COFINS": "1422.62"
+        },
+        "ValorTotal": "51522.64",
+        "Itens": {
+          "Item": {
+            "Descricao": "Auditoria Fiscal Completa",
+            "Quantidade": "4",
+            "ValorUnitario": "47420.75"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-6900/2024",
+        "DataEmissao": "2024-04-03",
+        "ClienteID": "CLI0016",
+        "ValorServico": "5752.9",
+        "Impostos": {
+          "ISS": "287.64",
+          "PIS": "37.39",
+          "COFINS": "172.59"
+        },
+        "ValorTotal": "6250.52",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "3",
+              "ValorUnitario": "1917.63"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "2",
+              "ValorUnitario": "1917.63"
+            },
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "4",
+              "ValorUnitario": "1917.63"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-2093/2024",
+        "DataEmissao": "2024-07-09",
+        "ClienteID": "CLI0013",
+        "ValorServico": "47223.28",
+        "Impostos": {
+          "ISS": "2361.16",
+          "PIS": "306.95",
+          "COFINS": "1416.7"
+        },
+        "ValorTotal": "51308.09",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Planejamento Tributário Anual",
+              "Quantidade": "4",
+              "ValorUnitario": "23611.64"
+            },
+            {
+              "Descricao": "Recuperação de Crédito ICMS",
+              "Quantidade": "6",
+              "ValorUnitario": "23611.64"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-4266/2024",
+        "DataEmissao": "2024-06-29",
+        "ClienteID": "CLI0015",
+        "ValorServico": "22636.84",
+        "Impostos": {
+          "ISS": "1131.84",
+          "PIS": "147.14",
+          "COFINS": "679.11"
+        },
+        "ValorTotal": "24594.93",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Consultoria ISS Serviços",
+              "Quantidade": "4",
+              "ValorUnitario": "7545.61"
+            },
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "10",
+              "ValorUnitario": "7545.61"
+            },
+            {
+              "Descricao": "Auditoria Fiscal Completa",
+              "Quantidade": "9",
+              "ValorUnitario": "7545.61"
+            }
+          ]
+        }
+      },
+      {
+        "NumeroNota": "NF-3858/2024",
+        "DataEmissao": "2024-01-13",
+        "ClienteID": "CLI0018",
+        "ValorServico": "23505.47",
+        "Impostos": {
+          "ISS": "1175.27",
+          "PIS": "152.79",
+          "COFINS": "705.16"
+        },
+        "ValorTotal": "25538.69",
+        "Itens": {
+          "Item": {
+            "Descricao": "Análise Fiscal PIS/COFINS",
+            "Quantidade": "7",
+            "ValorUnitario": "23505.47"
+          }
+        }
+      },
+      {
+        "NumeroNota": "NF-4578/2024",
+        "DataEmissao": "2024-05-05",
+        "ClienteID": "CLI0031",
+        "ValorServico": "42275.27",
+        "Impostos": {
+          "ISS": "2113.76",
+          "PIS": "274.79",
+          "COFINS": "1268.26"
+        },
+        "ValorTotal": "45932.08",
+        "Itens": {
+          "Item": [
+            {
+              "Descricao": "Revisão Declarações Fiscais",
+              "Quantidade": "7",
+              "ValorUnitario": "14091.76"
+            },
+            {
+              "Descricao": "Análise Fiscal PIS/COFINS",
+              "Quantidade": "1",
+              "ValorUnitario": "14091.76"
+            },
+            {
+              "Descricao": "Análise Benefícios Fiscais",
+              "Quantidade": "6",
+              "ValorUnitario": "14091.76"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
