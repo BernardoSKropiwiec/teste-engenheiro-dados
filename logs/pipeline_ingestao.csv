@@ -41,3 +41,57 @@ timestamp,operation,table_id,status,message
 2025-10-26T19:26:58.879468,load_formated_xml,psa_raw.notas_fiscais_json,SUCCESS,psa_raw.notas_fiscais_json carregada com sucesso
 2025-10-26T19:26:58.879601,load_formated_html,psa_raw.logs_sistema_table,START,Lendo dados/logs_sistema.html
 2025-10-26T19:27:02.869428,load_formated_html,psa_raw.logs_sistema_table,SUCCESS,psa_raw.logs_sistema_table carregada com sucesso
+2025-10-27T02:06:12.939658,run_ddl_script,ddl_bronze_scripts.sql,START,Executando script /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql
+2025-10-27T02:06:13.872785,run_ddl_script,ddl_bronze_scripts.sql,ERROR,"Falha ao executar DDL /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql: 400 Syntax error: Expected "")"" or "","" but got identifier ""ip"" at [54:3]; reason: invalidQuery, location: query, message: Syntax error: Expected "")"" or "","" but got identifier ""ip"" at [54:3]
+
+Location: US
+Job ID: 5b81942d-73d1-4edd-bbff-54dd1b2bd998
+"
+2025-10-27T02:07:38.893476,run_ddl_script,ddl_bronze_scripts.sql,START,Executando script /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql
+2025-10-27T02:07:44.871716,run_ddl_script,ddl_bronze_scripts.sql,SUCCESS,Script /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql executado com sucesso
+2025-10-27T02:07:44.871885,load_raw_csv,psa_raw.clientes,START,Lendo dados/dados_clientes.csv
+2025-10-27T02:07:48.703352,load_raw_csv,psa_raw.clientes,SUCCESS,psa_raw.clientes carregada com sucesso
+2025-10-27T02:07:48.703497,load_raw_txt,psa_raw.analises_tributarias,START,Lendo dados/analises_tributarias.txt
+2025-10-27T02:07:52.258664,load_raw_txt,psa_raw.analises_tributarias,SUCCESS,psa_raw.analises_tributarias carregada com sucesso
+2025-10-27T02:07:52.258784,load_raw_json,psa_raw.tarefas_projetos,START,Lendo dados/tarefas_projetos.json
+2025-10-27T02:07:55.915072,load_raw_json,psa_raw.tarefas_projetos,SUCCESS,psa_raw.tarefas_projetos carregada com sucesso
+2025-10-27T02:07:55.915183,load_raw_xml,psa_raw.notas_fiscais,START,Lendo dados/notas_fiscais.xml
+2025-10-27T02:07:59.843936,load_raw_xml,psa_raw.notas_fiscais,SUCCESS,psa_raw.notas_fiscais carregada com sucesso
+2025-10-27T02:07:59.844051,load_raw_html,psa_raw.logs_sistema,START,Lendo dados/logs_sistema.html
+2025-10-27T02:08:04.547759,load_raw_html,psa_raw.logs_sistema,SUCCESS,psa_raw.logs_sistema carregada com sucesso
+2025-10-27T02:08:04.547877,load_formated_xml,psa_raw.notas_fiscais_json,START,Lendo dados/notas_fiscais.xml
+2025-10-27T02:08:09.307568,load_formated_xml,psa_raw.notas_fiscais_json,SUCCESS,psa_raw.notas_fiscais_json carregada com sucesso
+2025-10-27T02:08:09.307691,load_formated_html,psa_raw.logs_sistema_table,START,Lendo dados/logs_sistema.html
+2025-10-27T02:08:13.789168,load_formated_html,psa_raw.logs_sistema_table,SUCCESS,psa_raw.logs_sistema_table carregada com sucesso
+2025-10-27T02:09:30.886949+00:00,run_ddl_script,ddl_bronze_scripts.sql,START,Executando script /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql
+2025-10-27T02:09:36.117493+00:00,run_ddl_script,ddl_bronze_scripts.sql,SUCCESS,Script /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql executado com sucesso
+2025-10-27T02:09:36.117646+00:00,load_raw_csv,psa_raw.clientes,START,Lendo dados/dados_clientes.csv
+2025-10-27T02:09:39.700549+00:00,load_raw_csv,psa_raw.clientes,SUCCESS,psa_raw.clientes carregada com sucesso
+2025-10-27T02:09:39.700680+00:00,load_raw_txt,psa_raw.analises_tributarias,START,Lendo dados/analises_tributarias.txt
+2025-10-27T02:09:43.882113+00:00,load_raw_txt,psa_raw.analises_tributarias,SUCCESS,psa_raw.analises_tributarias carregada com sucesso
+2025-10-27T02:09:43.882231+00:00,load_raw_json,psa_raw.tarefas_projetos,START,Lendo dados/tarefas_projetos.json
+2025-10-27T02:09:48.699862+00:00,load_raw_json,psa_raw.tarefas_projetos,SUCCESS,psa_raw.tarefas_projetos carregada com sucesso
+2025-10-27T02:09:48.700016+00:00,load_raw_xml,psa_raw.notas_fiscais,START,Lendo dados/notas_fiscais.xml
+2025-10-27T02:09:52.435878+00:00,load_raw_xml,psa_raw.notas_fiscais,SUCCESS,psa_raw.notas_fiscais carregada com sucesso
+2025-10-27T02:09:52.435994+00:00,load_raw_html,psa_raw.logs_sistema,START,Lendo dados/logs_sistema.html
+2025-10-27T02:09:56.088762+00:00,load_raw_html,psa_raw.logs_sistema,SUCCESS,psa_raw.logs_sistema carregada com sucesso
+2025-10-27T02:09:56.088884+00:00,load_formated_xml,psa_raw.notas_fiscais_json,START,Lendo dados/notas_fiscais.xml
+2025-10-27T02:09:59.624693+00:00,load_formated_xml,psa_raw.notas_fiscais_json,SUCCESS,psa_raw.notas_fiscais_json carregada com sucesso
+2025-10-27T02:09:59.624830+00:00,load_formated_html,psa_raw.logs_sistema_table,START,Lendo dados/logs_sistema.html
+2025-10-27T02:10:03.365061+00:00,load_formated_html,psa_raw.logs_sistema_table,SUCCESS,psa_raw.logs_sistema_table carregada com sucesso
+2025-10-27T02:48:25.438997+00:00,run_ddl_script,ddl_bronze_scripts.sql,START,Executando script /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql
+2025-10-27T02:48:31.378878+00:00,run_ddl_script,ddl_bronze_scripts.sql,SUCCESS,Script /home/bernardog/Documents/repos/teste-engenheiro-dados/sql/ddl_bronze_scripts.sql executado com sucesso
+2025-10-27T02:48:31.379036+00:00,load_raw_csv,psa_raw.clientes,START,Lendo dados/dados_clientes.csv
+2025-10-27T02:48:34.874283+00:00,load_raw_csv,psa_raw.clientes,SUCCESS,psa_raw.clientes carregada com sucesso
+2025-10-27T02:48:34.874415+00:00,load_raw_txt,psa_raw.analises_tributarias,START,Lendo dados/analises_tributarias.txt
+2025-10-27T02:48:39.247596+00:00,load_raw_txt,psa_raw.analises_tributarias,SUCCESS,psa_raw.analises_tributarias carregada com sucesso
+2025-10-27T02:48:39.247711+00:00,load_raw_json,psa_raw.tarefas_projetos,START,Lendo dados/tarefas_projetos.json
+2025-10-27T02:48:43.873122+00:00,load_raw_json,psa_raw.tarefas_projetos,SUCCESS,psa_raw.tarefas_projetos carregada com sucesso
+2025-10-27T02:48:43.873241+00:00,load_raw_xml,psa_raw.notas_fiscais,START,Lendo dados/notas_fiscais.xml
+2025-10-27T02:48:47.139118+00:00,load_raw_xml,psa_raw.notas_fiscais,SUCCESS,psa_raw.notas_fiscais carregada com sucesso
+2025-10-27T02:48:47.139257+00:00,load_raw_html,psa_raw.logs_sistema,START,Lendo dados/logs_sistema.html
+2025-10-27T02:48:51.345664+00:00,load_raw_html,psa_raw.logs_sistema,SUCCESS,psa_raw.logs_sistema carregada com sucesso
+2025-10-27T02:48:51.345791+00:00,load_formated_xml,psa_raw.notas_fiscais_json,START,Lendo dados/notas_fiscais.xml
+2025-10-27T02:48:56.311653+00:00,load_formated_xml,psa_raw.notas_fiscais_json,SUCCESS,psa_raw.notas_fiscais_json carregada com sucesso
+2025-10-27T02:48:56.311780+00:00,load_formated_html,psa_raw.logs_sistema_table,START,Lendo dados/logs_sistema.html
+2025-10-27T02:49:00.413824+00:00,load_formated_html,psa_raw.logs_sistema_table,SUCCESS,psa_raw.logs_sistema_table carregada com sucesso

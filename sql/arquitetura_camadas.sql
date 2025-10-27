@@ -1,61 +1,5 @@
--------------------Bronze---------------------
-CREATE TABLE `psa_raw.clientes` (
-    id_cliente STRING,
-    razao_social STRING,
-    cnpj STRING,
-    porte_empresa STRING,
-    setor STRING,
-    cidade STRING,
-    estado STRING,
-    data_cadastro STRING,
-)
-OPTIONS(description="Carga bruta dos dados de clientes - CSV original");
 
-
-CREATE OR REPLACE TABLE `psa_raw.analises_tributarias` (
-  id_analise STRING,
-  cliente_id STRING,
-  tipo_tributo STRING,
-  periodo_analise STRING,
-  valor_identificado FLOAT64,
-  observacoes STRING
-)
-OPTIONS(description="Carga bruta das análises tributárias - TXT delimitado por pipe '|'");
-
-
-CREATE OR REPLACE TABLE `psa_raw.notas_fiscais` (
-  conteudo STRING
-)
-OPTIONS(description="Carga bruta dos arquivos XML de notas fiscais");
-
-
-CREATE OR REPLACE TABLE `psa_raw.tarefas_projetos` (
-  conteudo STRING
-)
-OPTIONS(description="Carga bruta dos dados de projetos e tarefas - JSON completo");
-
-CREATE OR REPLACE TABLE `psa_raw.logs_sistema` (
-  conteudo STRING
-)
-OPTIONS(description="Carga bruta dos logs de sistema - HTML completo");
-
-
-CREATE OR REPLACE TABLE `psa_raw.notas_fiscais_json` (
-  conteudo STRING
-)
-OPTIONS(description="Carga bruta dos arquivos dos arquivos XML, formatados como JSON");
-
-CREATE OR REPLACE TABLE `psa_raw.logs_sistema_table`(
-  id_log STRING,
-  log_time TIMESTAMP,
-  usuario STRING,
-  acao STRING,
-  entidade_afetada STRING,
-  resultado STRING
-  ip STRING
-)
-OPTIONS(description="Carga dos dados sem tratamento da tabela do arquivo de logs em formato HTML");
--------------------silver---------------------
+--Tabelas nivel Silver------
 
 
 --Clientes
@@ -271,49 +215,22 @@ ADD FOREIGN KEY (id_nota)
 REFERENCES `psa-data-test-476002.psa_curated.nota_fiscal`(id_nota) NOT ENFORCED;
 
 
-
---Views----------------
-
-CREATE OR REPLACE VIEW `psa_analytics.resumo_clientes_tributos` AS
+--Logs do Sistema
+CREATE OR REPLACE TABLE psa_curated.log_sistema
+PARTITION BY data_evento
+CLUSTER BY usuario, acao AS
 SELECT
-  c.id_cliente,
-  c.razao_social,
-  c.cnpj,
-  c.setor,
-  c.cidade,
-  c.estado,
-  COUNT(DISTINCT a.id_analise) AS total_analises,
-  ROUND(SUM(a.valor_identificado), 2) AS valor_identificado_total,
-  ROUND(SUM(i.valor), 2) AS valor_impostos_total
-FROM
-  `psa_curated.cliente` AS c
-LEFT JOIN `psa_curated.analise_tributaria` AS a
-  ON c.id_cliente = a.id_cliente
-LEFT JOIN `psa_curated.nota_fiscal` AS n
-  ON c.id_cliente = n.id_cliente
-LEFT JOIN `psa_curated.nota_fiscal_imposto` AS i
-  ON n.id_nota = i.id_nota
-GROUP BY
-  c.id_cliente, c.razao_social, c.cnpj, c.setor, c.cidade, c.estado;
+  SAFE_CAST(id_log AS STRING) AS id_log,
+  DATE(log_time) AS data_evento,
+  TIMESTAMP_TRUNC(log_time, SECOND) AS log_time,
+  LOWER(TRIM(usuario)) AS usuario,
+  INITCAP(TRIM(acao)) AS acao,
+  INITCAP(TRIM(entidade_afetada)) AS entidade_afetada,
+  UPPER(TRIM(resultado)) AS resultado,
+  REGEXP_REPLACE(IFNULL(ip, ''), r'[^0-9\\.]+', '') AS ip,
+  CURRENT_TIMESTAMP() AS data_tratamento
+FROM `psa_raw.logs_sistema_table`
+WHERE id_log IS NOT NULL;
+ALTER TABLE `psa-data-test-476002.psa_curated.log_sistema`
+ADD PRIMARY KEY (id_log) NOT ENFORCED;
 
-
-CREATE OR REPLACE VIEW `psa_analytics.performance_projetos` AS
-SELECT
-  p.id_projeto,
-  p.nome_projeto,
-  p.responsavel,
-  p.status,
-  p.valor_projeto,
-  p.horas_totais_estimadas,
-  p.horas_totais_realizadas,
-  COUNT(DISTINCT t.id_tarefa) AS total_tarefas,
-  ROUND(SUM(t.horas_realizadas), 2) AS horas_realizadas_total,
-  ROUND(SUM(t.horas_estimadas), 2) AS horas_estimadas_total,
-  SAFE_DIVIDE(SUM(t.horas_realizadas), NULLIF(SUM(t.horas_estimadas), 0)) AS eficiencia
-FROM
-  `psa_curated.projeto` AS p
-LEFT JOIN `psa_curated.tarefa` AS t
-  ON p.id_projeto = t.id_projeto
-GROUP BY
-  p.id_projeto, p.nome_projeto, p.responsavel, p.status,
-  p.valor_projeto, p.horas_totais_estimadas, p.horas_totais_realizadas;

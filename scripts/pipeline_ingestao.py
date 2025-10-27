@@ -5,19 +5,22 @@ from abc import ABC, abstractmethod
 from datetime import datetime
 from io import StringIO
 from pathlib import Path
+from datetime import datetime, timezone
 
 import pandas as pd
 import xmltodict
 from bs4 import BeautifulSoup
 from google.cloud import bigquery
 
+
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = (
-    "/home/bernardog/Documents/repos/teste-engenheiro-dados/"
-    "psa-data-test-476002-902991aa98ac.json"
+    "dados/psa-data-test-476002-902991aa98ac.json"
 )
+
 
 client = bigquery.Client()
 LOG_FILE = Path(__file__).resolve().parent.parent / "logs" / "pipeline_ingestao.csv"
+DDL_SCRIPT = Path(__file__).resolve().parent.parent / "sql" / "ddl_bronze_scripts.sql"
 BQ_TIMEOUT = 300  # seconds
 
 
@@ -49,7 +52,7 @@ class PipelineLogger:
         self.log_file.parent.mkdir(parents=True, exist_ok=True)
         write_header = not self.log_file.exists()
         record = {
-            "timestamp": datetime.utcnow().isoformat(),
+            "timestamp": datetime.now(timezone.utc).isoformat(),
             "operation": operation,
             "table_id": table_id,
             "status": status,
@@ -212,9 +215,47 @@ class PipelineRunner:
             )
 
 
+def run_ddl_script(
+    client_obj: bigquery.Client,
+    script_path: Path,
+    logger: PipelineLogger,
+) -> None:
+    """Executa o script de DDL antes das cargas para garantir as tabelas."""
+
+    operation = "run_ddl_script"
+    table_id = script_path.name
+    if not script_path.exists():
+        msg = f"Arquivo de DDL não encontrado: {script_path}"
+        logger.append_log(operation, table_id, "ERROR", msg)
+        raise FileNotFoundError(msg)
+
+    logger.append_log(
+        operation,
+        table_id,
+        "START",
+        f"Executando script {script_path}",
+    )
+
+    try:
+        ddl_sql = script_path.read_text(encoding="utf-8")
+        client_obj.query(ddl_sql).result(timeout=BQ_TIMEOUT)
+    except Exception as exc:
+        msg = f"Falha ao executar DDL {script_path}: {exc}"
+        logger.append_log(operation, table_id, "ERROR", msg)
+        raise
+    else:
+        logger.append_log(
+            operation,
+            table_id,
+            "SUCCESS",
+            f"Script {script_path} executado com sucesso",
+        )
+
+
 def main():
     uploader = BigQueryLoader(client)
     logger = PipelineLogger(LOG_FILE)
+    run_ddl_script(client, DDL_SCRIPT, logger)
     loaders: list[BaseFileLoader] = [
         RawCSVLoader("dados/dados_clientes.csv", "psa_raw.clientes"),
         RawTXTLoader("dados/analises_tributarias.txt", "psa_raw.analises_tributarias"),
