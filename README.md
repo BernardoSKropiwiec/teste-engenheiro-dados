@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ## Dependências e pré-requisitos
 
-- Python 3.10+ (o projeto usa 3.13 na venv local).  
+- Python 3.13 (algumas bibliotecas não estão disponiveis em versoes superiores).  
 - Conta de serviço com permissões de BigQuery Data Editor e BigQuery Job User.  
 - Bibliotecas listadas em `requirements.txt` (pandas, google-cloud-bigquery, pandas-gbq, BeautifulSoup4, xmltodict etc.).  
 - Acesso aos datasets `psa_raw` e `psa_curated` dentro do projeto `psa-data-test-476002`.  
@@ -56,6 +56,10 @@ pip install -r requirements.txt
 .
 ├── dados/                  # Fontes brutas usadas pelos loaders
 ├── docs/                   # Espaço reservado para documentação adicional
+│   ├── diagrama_arquitetura.pdf   # Arquivo pdf com os diagramas de data lineage e ER.
+│   ├── dicionario_dados.xlsx      # Planilha com dicionário de dados das camadas psa_raw, psa_curated e psa_analytics
+│   ├── otimizacoes.md             # Arquivo markdown explicando as otimizações feitas em cada tabela
+│   └── transformacoes.md          # Arquivo explicando as transformações realizadas para as tabelas da camada psa_curated
 ├── logs/                   # Arquivos gerados em runtime (ex.: pipeline_ingestao.csv)
 ├── scripts/
 │   ├── pipeline_ingestao.py   # Pipeline orientada a objetos para cargas raw/formatted
@@ -94,7 +98,7 @@ flowchart LR
         nota_cur["nota_fiscal"]
         item_cur["nota_fiscal_item"]
         imposto_cur["nota_fiscal_imposto"]
-  end
+ end
  subgraph Gold["psa_analytics (Gold)"]
         vw_anl_analise["vw_anl_analise_tributaria"]
         vw_anl_nf["vw_anl_nota_fiscal"]
@@ -102,6 +106,11 @@ flowchart LR
         vw_snt_nf["vw_snt_notas_fiscais"]
         vw_snt_analises["vw_snt_analises_tributarias"]
         vw_snt_perf["vw_snt_projetos_performance"]
+  end
+ subgraph API["API (FastAPI)"]
+        api_service["PSA Data API"]
+        api_list["GET /analytics"]
+        api_detail["GET /analytics/{view_name}"]
   end
     clientes_raw --> cliente_cur
     analises_raw --> analise_cur
@@ -116,6 +125,8 @@ flowchart LR
     projeto_cur --> vw_anl_proj & vw_snt_perf
     tarefa_cur --> vw_anl_proj
     vw_anl_nf --> vw_snt_nf
+    vw_anl_analise & vw_anl_nf & vw_anl_proj & vw_snt_nf & vw_snt_analises & vw_snt_perf --> api_service
+    api_service --> api_list & api_detail
 ```
 
 ---

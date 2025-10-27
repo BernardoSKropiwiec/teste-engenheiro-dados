@@ -220,6 +220,7 @@ CREATE OR REPLACE TABLE psa_curated.log_sistema
 PARTITION BY data_evento
 CLUSTER BY usuario, acao AS
 SELECT
+  DISTINCT
   SAFE_CAST(id_log AS STRING) AS id_log,
   DATE(log_time) AS data_evento,
   TIMESTAMP_TRUNC(log_time, SECOND) AS log_time,
