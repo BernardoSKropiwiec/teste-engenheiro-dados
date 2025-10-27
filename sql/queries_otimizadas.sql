@@ -16,7 +16,7 @@ SELECT
   ant.observacoes
 FROM 
   `psa_curated.analise_tributaria` ant
-  join `psa_curated.cliente`       cli on ant.id_cliente = cli.id_cliente
+  join `psa_curated.cliente`       cli on ant.id_cliente = cli.id_cliente;
 
 
 --== View Analítica de notas fiscais ==================================
@@ -54,7 +54,7 @@ SELECT
   valor_iss,
   valor_pis,
   valor_cofins
-FROM base
+FROM base;
 
 
 --============== View Analítica de projetos ===========================
@@ -83,7 +83,7 @@ select
 from 
   `psa_curated.projeto`      pro
   join `psa_curated.tarefa`  trf on pro.id_projeto = trf.id_projeto
-  join `psa_curated.cliente` cli on pro.id_cliente = cli.id_cliente
+  join `psa_curated.cliente` cli on pro.id_cliente = cli.id_cliente;
 
 
 --== View Sintética de performance de projetos ========================
@@ -122,7 +122,7 @@ group by
     pro.horas_totais_estimadas,
     pro.horas_totais_realizadas,
     tar.descricao,
-    pro.status
+    pro.status;
 
 
 --========View Sintética de análises tributárias ============================
