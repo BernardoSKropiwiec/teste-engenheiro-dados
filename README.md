@@ -125,7 +125,7 @@ flowchart LR
 ```mermaid
 ---
 config:
-  theme: default
+  theme: dark
   look: classic
 ---
 erDiagram
