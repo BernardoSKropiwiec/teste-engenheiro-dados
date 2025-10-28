@@ -48,6 +48,10 @@ pip install -r requirements.txt
 - Acesso aos datasets `psa_raw` e `psa_curated` dentro do projeto `psa-data-test-476002`.  
 - Dados de exemplo em `dados/` (CSV, TXT, JSON, XML e HTML) para realizar testes locais da pipeline.  
 
+> **Obs:** As credenciais do Google BigQuery estão incluídas apenas para facilitar a execução do teste.  
+> Em um ambiente real, devem ser configuradas como variáveis de ambiente, não no código.
+
+
 ---
 
 ## Estrutura de pastas
